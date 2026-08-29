@@ -21,16 +21,24 @@ def compile_memory_binary():
     )
 
     try:
-        # Use gemini-3.6-flash model string
+        # Use active gemini-3.6-flash model identifier
         response = client.models.generate_content(
             model="gemini-3.6-flash",
             contents=prompt,
         )
 
-        print("[SUCCESS] Memory binary generated successfully.")
-        if response.text:
-            print("[INFO] Response Preview:")
-            print(response.text[:200] + "...")
+        # Create target output directory if it does not exist
+        os.makedirs("build", exist_ok=True)
+        binary_path = os.path.join("build", "memory_update.bin")
+
+        # Save output response payload to binary file
+        with open(binary_path, "wb") as f:
+            if response.text:
+                f.write(response.text.encode("utf-8"))
+            else:
+                f.write(b"")
+
+        print(f"[SUCCESS] Memory binary generated successfully at: {binary_path}")
             
     except Exception as e:
         print(f"[FATAL] Failed to generate memory binary: {e}")
