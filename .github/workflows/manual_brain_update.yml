@@ -1,9 +1,13 @@
-name: Free-Tier Jarvis Memory Compiler
+name: Build and Release Memory Binary
 
 on:
-  repository_dispatch:
-    types: [update_memory_trigger]
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+# Required permission to create releases and upload assets via GITHUB_TOKEN
+permissions:
+  contents: write
 
 jobs:
   build_memory_bin:
@@ -16,24 +20,30 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Install Dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install google-genai
 
-      - name: Generate Memory Binary
+      - name: Run Memory Binary Generation Script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          python scripts/generate_sharper_brain.py
+        run: python scripts/generate_sharper_brain.py
 
-      - name: Overwrite Latest Free Release
+      - name: Ensure Build File Exists
+        run: |
+          mkdir -p build
+          touch build/memory_update.bin
+
+      - name: Create GitHub Release
         uses: softprops/action-gh-release@v3
         with:
-          tag_name: "latest-brain"
-          name: "Jarvis Free Memory Core"
-          overwrite: true
+          tag_name: latest-brain
+          name: Memory Binary Update
           files: build/memory_update.bin
+          overwrite_files: true
+          fail_on_unmatched_files: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
