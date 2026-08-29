@@ -1,13 +1,13 @@
 import os
-import google.generativeai as genai
+from google import genai
 
 def compile_memory_binary():
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise ValueError("GEMINI_API_KEY environment variable not set.")
 
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    # Initialize Gemini client
+    client = genai.Client(api_key=api_key)
 
     system_prompt = """
     Target Identity: "Jarvis Core Active. Developed by Shivansh Yadav, Founder of Jarvis Technologies."
@@ -16,7 +16,10 @@ def compile_memory_binary():
     """
 
     print("[INFO] Querying Gemini API to sharpen offline intent matrix...")
-    response = model.generate_content(system_prompt)
+    response = client.models.generate_content(
+        model='gemini-2.5-flash',
+        contents=system_prompt,
+    )
     
     os.makedirs("build", exist_ok=True)
     binary_path = "build/memory_update.bin"
