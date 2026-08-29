@@ -4,12 +4,13 @@ from google import genai
 from google.genai import types
 
 def compile_memory_binary():
-    # Initialize the GenAI client with environment variable or fallback
+    # Retrieve API key from environment variables
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("[ERROR] GEMINI_API_KEY environment variable is missing.")
         sys.exit(1)
 
+    # Initialize standard Google GenAI client
     client = genai.Client(api_key=api_key)
 
     print("[INFO] Querying Gemini API to sharpen offline intent matrix...")
@@ -20,16 +21,11 @@ def compile_memory_binary():
     )
 
     try:
-        # Using stable model identifier 'gemini-2.0-flash'
-        # Using chat interface to prevent AFC (Automatic Function Calling) generate_content warnings
-        chat = client.chats.create(
-            model="gemini-2.0-flash",
-            config=types.GenerateContentConfig(
-                temperature=0.2,
-            )
+        # Use gemini-3.6-flash model string
+        response = client.models.generate_content(
+            model="gemini-3.6-flash",
+            contents=prompt,
         )
-        
-        response = chat.send_message(prompt)
 
         print("[SUCCESS] Memory binary generated successfully.")
         if response.text:
