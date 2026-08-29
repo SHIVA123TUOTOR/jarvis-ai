@@ -1,11 +1,11 @@
-name: Build and Release Memory Binary
+name: Free-Tier Jarvis Memory Compiler
 
 on:
-  push:
-    branches:
-      - main
+  repository_dispatch:
+    types: [update_memory_trigger]   # ESP32 voice trigger over HTTPS
+  workflow_dispatch:                 # Enables "Run workflow" button in GitHub Actions UI
 
-# Required permission to create releases and upload assets via GITHUB_TOKEN
+# Essential permissions for GITHUB_TOKEN to upload releases
 permissions:
   contents: write
 
@@ -32,16 +32,16 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/generate_sharper_brain.py
 
-      - name: Ensure Build File Exists
+      - name: Ensure Build Directory and File Exist
         run: |
           mkdir -p build
           touch build/memory_update.bin
 
-      - name: Create GitHub Release
+      - name: Create or Overwrite GitHub Release
         uses: softprops/action-gh-release@v3
         with:
-          tag_name: latest-brain
-          name: Memory Binary Update
+          tag_name: "latest-brain"
+          name: "Jarvis Free Memory Core"
           files: build/memory_update.bin
           overwrite_files: true
           fail_on_unmatched_files: false
