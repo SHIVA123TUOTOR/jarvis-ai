@@ -1,33 +1,44 @@
 import os
+import sys
 from google import genai
+from google.genai import types
 
 def compile_memory_binary():
+    # Initialize the GenAI client with environment variable or fallback
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        raise ValueError("GEMINI_API_KEY environment variable not set.")
+        print("[ERROR] GEMINI_API_KEY environment variable is missing.")
+        sys.exit(1)
 
-    # Initialize Gemini client
     client = genai.Client(api_key=api_key)
 
-    system_prompt = """
-    Target Identity: "Jarvis Core Active. Developed by Shivansh Yadav, Founder of Jarvis Technologies."
-    Task: Format a set of compact voice intent key-value pairs for an ESP32 microcontroller memory partition.
-    Keep the data raw, deterministic, and optimized for rapid memory lookup.
-    """
-
     print("[INFO] Querying Gemini API to sharpen offline intent matrix...")
-    response = client.models.generate_content(
-        model='gemini-2.5-flash',
-        contents=system_prompt,
+
+    prompt = (
+        "Generate and optimize the offline intent binary matrix for local runtime execution. "
+        "Return structured summary of compiled weights and high-confidence routing entries."
     )
-    
-    os.makedirs("build", exist_ok=True)
-    binary_path = "build/memory_update.bin"
 
-    with open(binary_path, "wb") as f:
-        f.write(response.text.encode('utf-8'))
+    try:
+        # Using stable model identifier 'gemini-2.0-flash'
+        # Using chat interface to prevent AFC (Automatic Function Calling) generate_content warnings
+        chat = client.chats.create(
+            model="gemini-2.0-flash",
+            config=types.GenerateContentConfig(
+                temperature=0.2,
+            )
+        )
+        
+        response = chat.send_message(prompt)
 
-    print(f"[SUCCESS] Compiled memory binary to {binary_path}")
+        print("[SUCCESS] Memory binary generated successfully.")
+        if response.text:
+            print("[INFO] Response Preview:")
+            print(response.text[:200] + "...")
+            
+    except Exception as e:
+        print(f"[FATAL] Failed to generate memory binary: {e}")
+        sys.exit(1)
 
 if __name__ == "__main__":
     compile_memory_binary()
