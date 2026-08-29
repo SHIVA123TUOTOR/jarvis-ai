@@ -1,0 +1,39 @@
+name: Free-Tier Jarvis Memory Compiler
+
+on:
+  repository_dispatch:
+    types: [update_memory_trigger]
+  workflow_dispatch:
+
+jobs:
+  build_memory_bin:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install google-generativeai
+
+      - name: Generate Memory Binary
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/generate_sharper_brain.py
+
+      - name: Overwrite Latest Free Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: "latest-brain"
+          name: "Jarvis Free Memory Core"
+          overwrite: true
+          files: build/memory_update.bin
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
