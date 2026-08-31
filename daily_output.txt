@@ -1,24 +1,34 @@
-Since I don't have your specific details yet, here are two quick, standard formats you can use. 
+Here are two quick daily update formats depending on your needs:
 
-**If you'd like me to write the summary for you, just paste your raw notes or tell me what happened today!**
+### Option 1: Project / Work Standup (Fill-in-the-blank)
 
----
+**📅 Date:** [Today's Date]  
+**🚦 Overall Status:** [🟢 On Track / 🟡 At Risk / 🔴 Delayed]
 
-### Option 1: Team Standup / Agile Format (Quickest)
-* **Date:** [Insert Date]
-* ✅ **Completed Today:** [Task 1, Task 2]
-* 🎯 **Focus for Tomorrow:** [Task 1, Task 2]
-* 🚧 **Blockers/Risks:** [None / Describe issue]
-
----
-
-### Option 2: Executive / Management Summary (High-Level)
-**📌 Daily Briefing — [Project/Department Name]**
-* **Status:** 🟢 On Track | 🟡 Needs Attention | 🔴 Blocked
-* **Key Wins:** [1-2 major accomplishments today]
-* **Current Focus:** [Main priority being worked on]
-* **Next Steps:** [Key deliverable expected next]
+* **✅ Accomplished Yesterday / Today:**
+  * Completed [Task 1]
+  * Resolved issue with [Task 2]
+* **🎯 Focus for Today / Tomorrow:**
+  * Finalize [Deliverable A]
+  * Begin work on [Deliverable B]
+* **🚧 Blockers / Needs Support:**
+  * Waiting on approval for [X] from [Person/Team].
+* **📌 Key Announcements / Reminders:**
+  * Team meeting today at [Time].
 
 ---
 
-**How would you like to proceed?** Drop your notes below, and I will format them into a clean, professional update for you!
+### Option 2: Executive Brief (High-Level Summary)
+
+* **Top Highlight:** [Single most important win or update of the day]
+* **Key Metrics:** [Metric A: Value] | [Metric B: Value]
+* **Immediate Action Required:** [Yes/No - detail if yes]
+
+---
+
+💡 **Would you like me to generate a specific summary for you?** 
+If so, please reply with what you need summarized, such as:
+1. **World / World News**
+2. **Financial Markets & Economy**
+3. **Tech / AI News**
+4. **Notes or raw text from your workday** (paste them here and I'll clean them up!)
