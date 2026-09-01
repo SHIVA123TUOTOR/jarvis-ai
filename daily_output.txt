@@ -1,34 +1,51 @@
-Here are two quick daily update formats depending on your needs:
-
-### Option 1: Project / Work Standup (Fill-in-the-blank)
-
-**📅 Date:** [Today's Date]  
-**🚦 Overall Status:** [🟢 On Track / 🟡 At Risk / 🔴 Delayed]
-
-* **✅ Accomplished Yesterday / Today:**
-  * Completed [Task 1]
-  * Resolved issue with [Task 2]
-* **🎯 Focus for Today / Tomorrow:**
-  * Finalize [Deliverable A]
-  * Begin work on [Deliverable B]
-* **🚧 Blockers / Needs Support:**
-  * Waiting on approval for [X] from [Person/Team].
-* **📌 Key Announcements / Reminders:**
-  * Team meeting today at [Time].
+Here is a clean, versatile **Daily Update Summary** template you can use, along with an example of how it looks filled out.
 
 ---
 
-### Option 2: Executive Brief (High-Level Summary)
+### 📋 Daily Summary Template
 
-* **Top Highlight:** [Single most important win or update of the day]
-* **Key Metrics:** [Metric A: Value] | [Metric B: Value]
-* **Immediate Action Required:** [Yes/No - detail if yes]
+**Date:** [Date]  
+**Status:** 🟢 On Track | 🟡 At Risk | 🔴 Delayed  
+
+**✅ Completed Today:**
+* [Task 1 finished / Milestone reached]
+* [Task 2 finished]
+
+**⏳ In Progress:**
+* [Task currently being worked on] — *(Expected completion: Date/Time)*
+* [Task currently being worked on]
+
+**🚨 Blockers / Risks:**
+* [Anything holding up progress, e.g., waiting on approval, tech issue] *(Leave as "None" if clear)*
+
+**🎯 Focus for Tomorrow:**
+* [Top priority for tomorrow]
+* [Secondary priority]
 
 ---
 
-💡 **Would you like me to generate a specific summary for you?** 
-If so, please reply with what you need summarized, such as:
-1. **World / World News**
-2. **Financial Markets & Economy**
-3. **Tech / AI News**
-4. **Notes or raw text from your workday** (paste them here and I'll clean them up!)
+### 📝 Example (Filled Out)
+
+**Date:** October 24, 2023  
+**Status:** 🟢 On Track  
+
+**✅ Completed Today:**
+* Finalized and sent the Q4 Marketing Strategy proposal to leadership.
+* Resolved client onboarding bug in the staging environment (Ticket #402).
+* Conducted weekly team sync and updated project timelines.
+
+**⏳ In Progress:**
+* Drafting copy for the new landing page — *(Expected completion: Tomorrow EOD)*
+* Reviewing vendor quotes for the software upgrade.
+
+**🚨 Blockers / Risks:**
+* Waiting on Legal approval for the Vendor X contract before proceeding with integration.
+
+**🎯 Focus for Tomorrow:**
+* Finish landing page copy review.
+* Follow up with the Legal team on contract status.
+* Prepare presentation slides for Friday's client call.
+
+---
+
+*If you want to paste your raw notes, tasks, or bullet points below, I can instantly organize them into a customized summary for you!*
