@@ -1,27 +1,43 @@
-Here is a quick, clean daily update template pre-filled with an example. You can copy and adapt it for your team or daily standup.
+Here are a few quick formats you can use, depending on your audience. 
+
+If you'd like me to write a **custom update**, just reply with your raw notes or bullet points, and I’ll format it for you!
 
 ---
 
-### **📅 Daily Update: [Date - e.g., October 24, 2023]**
+### Option 1: Quick Project/Team Standup (Most Common)
+**📅 Daily Update – [Date]**
 
-**✅ Done Yesterday**
-* Completed initial draft of the Q4 project roadmap.
-* Resolved bug #402 regarding payment gateway timeouts.
-* Held onboarding call with new client (Acme Corp).
-
-**🎯 Today’s Focus**
-* Finalize budget allocations with the Finance team.
-* Review design mockups for the user dashboard update.
-* Draft content for next week's product newsletter.
-
-**⚠️ Blockers / Risks**
-* **Blocker:** Awaiting API access from the vendor (chased them this morning).
-* **Risk:** Potential 1-day delay on Dashboard launch if designs aren't approved by 3 PM.
-
-**📌 Quick FYI**
-* Out of the office tomorrow (Friday) from 1 PM – 3 PM for a medical appointment.
+* **Key Accomplishments (Yesterday):**
+  * Completed [Task/Feature A] and moved to review.
+  * Resolved issue with [System/Client B].
+* **Today’s Focus:**
+  * Finalize [Task C].
+  * Meeting with [Team/Client] regarding [Topic].
+* **Blockers / Risks:**
+  * Waiting on approval for [Item] from [Name].
 
 ---
 
-### Need a specific format?
-If you're looking for a specific type of update (e.g., **Sales numbers**, **Software Engineering standup**, **Executive Briefing**, or **Personal Task Summary**), let me know and I will tailor it!
+### Option 2: Executive / High-Level Summary
+**📊 Executive Daily Brief – [Date]**
+
+* **Top Line:** Project [Name] remains **[On Track / At Risk]**. 
+* **Major Wins:** [Briefly state 1-2 key achievements today].
+* **Current Priorities:** Finalizing [Deliverable] by [Time/Day].
+* **Action Needed:** Need sign-off on [Specific Document/Budget] from [Person].
+
+---
+
+### Option 3: Operations / Support Summary
+**🛠️ Ops Daily Check-in – [Date]**
+
+* **System Status:** All primary systems operational (Green).
+* **Metrics:** [X] tickets resolved | [X] pending.
+* **Incident Escalations:** [None / Brief description of issue].
+* **Next 24 Hours:** Routine maintenance scheduled for [Time].
+
+---
+
+👉 **Want a tailored summary?** Paste your raw tasks, notes, or team messages below, and tell me:
+1. Who is receiving this? (e.g., Manager, Team, Client)
+2. What tone do you prefer? (e.g., Casual, Formal, Brief)
