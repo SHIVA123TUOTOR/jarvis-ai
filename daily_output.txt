@@ -1,43 +1,39 @@
-Here are a few quick formats you can use, depending on your audience. 
+Here are a few formats for a quick daily update, depending on your needs. 
 
-If you'd like me to write a **custom update**, just reply with your raw notes or bullet points, and I’ll format it for you!
+### Option 1: Standard Work/Project Update (Best for Slack/Teams)
 
----
+🗓 **Daily Update — [Date]**
 
-### Option 1: Quick Project/Team Standup (Most Common)
-**📅 Daily Update – [Date]**
-
-* **Key Accomplishments (Yesterday):**
-  * Completed [Task/Feature A] and moved to review.
-  * Resolved issue with [System/Client B].
-* **Today’s Focus:**
-  * Finalize [Task C].
-  * Meeting with [Team/Client] regarding [Topic].
-* **Blockers / Risks:**
-  * Waiting on approval for [Item] from [Name].
+* ✅ **Completed Yesterday:**
+  * [Key task 1 completed]
+  * [Key task 2 completed]
+* 🎯 **Focus Today:**
+  * [Main priority 1]
+  * [Main priority 2]
+* 🚧 **Blockers / Needs:**
+  * [None / Waiting on X from Person Y]
 
 ---
 
-### Option 2: Executive / High-Level Summary
-**📊 Executive Daily Brief – [Date]**
+### Option 2: Executive Summary (Best for Managers & Clients)
 
-* **Top Line:** Project [Name] remains **[On Track / At Risk]**. 
-* **Major Wins:** [Briefly state 1-2 key achievements today].
-* **Current Priorities:** Finalizing [Deliverable] by [Time/Day].
-* **Action Needed:** Need sign-off on [Specific Document/Budget] from [Person].
+📊 **Daily Status Brief — [Project Name]**
 
----
-
-### Option 3: Operations / Support Summary
-**🛠️ Ops Daily Check-in – [Date]**
-
-* **System Status:** All primary systems operational (Green).
-* **Metrics:** [X] tickets resolved | [X] pending.
-* **Incident Escalations:** [None / Brief description of issue].
-* **Next 24 Hours:** Routine maintenance scheduled for [Time].
+* **Status:** 🟢 On Track | 🟡 At Risk | 🔴 Delayed
+* **Top Highlight:** Delivered [Key Milestone] ahead of schedule.
+* **Key Metrics Today:** [e.g., 15 tickets resolved, +5% sign-ups]
+* **Next Major Step:** Finalizing [Deliverable] by tomorrow EOD.
+* **Action Required:** Need approval on [Item/Budget].
 
 ---
 
-👉 **Want a tailored summary?** Paste your raw tasks, notes, or team messages below, and tell me:
-1. Who is receiving this? (e.g., Manager, Team, Client)
-2. What tone do you prefer? (e.g., Casual, Formal, Brief)
+### Option 3: Quick Personal/Team Check-in
+
+💡 **Daily Snapshot**
+* **Wins:** [Quick win today]
+* **In Progress:** [What you are currently working on]
+* **Mood/Bandwidth:** [e.g., 8/10 — Full capacity]
+
+***
+
+**Need me to summarize specific notes or news for you?** Just paste your raw text, notes, or bullet points here, and I will generate a polished summary for you!
