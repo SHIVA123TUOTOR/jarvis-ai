@@ -1,21 +1,31 @@
-Here is a quick daily update format you can use right away. 
+Here are a few quick ways to format a daily update, depending on your audience. 
 
-### 📅 **Daily Update: [Date]**
-
-**✅ Completed Yesterday / Priorities Met:**
-* Finished [Task 1, e.g., the Q3 draft report].
-* Resolved issue with [Task/System 2, e.g., client onboarding bug].
-* Held alignment call with [Person/Team].
-
-**🎯 Today’s Focus:**
-* Deliver draft of [Project A] for review.
-* Follow up on pending feedback regarding [Topic].
-* Complete [Routine Task/Admin].
-
-**⚠️ Blockers / Dependencies:**
-* Waiting on approval from [Name] for [Specific Item]. *(Or: "None at the moment.")*
+### Option 1: Quick Team Standup (Scrum Style)
+> **📅 Daily Update — [Date]**
+> * **Yesterday:** Completed [Task A] and reviewed [Task B].
+> * **Today:** Working on [Task C] and finalizing [Task D].
+> * **Blockers:** Waiting on approval for [Item X].
 
 ---
 
-### Need me to write one tailored to you?
-Reply with a few quick notes on what you did, what you're working on today, and any blockers, and I will format a polished, professional update for you!
+### Option 2: Executive Summary (High-Level)
+> **📊 Daily Briefing — [Date]**
+> * **🟢 Key Wins:** [Major achievement or milestone hit today].
+> * **🟡 In Progress:** [Current primary focus or ongoing project].
+> * **🔴 Risks/Needs Attention:** [Any urgent decision, delay, or resource needed].
+> * **🎯 Tomorrow’s Priority:** [Top priority for the next 24 hours].
+
+---
+
+### Option 3: General Project Status
+> **🚀 Project Update — [Date]**
+> * **Highlights:** [1-2 sentence summary of today's progress].
+> * **Completed:**
+>   * Done with [Deliverable 1]
+>   * Sent [Deliverable 2] for review
+> * **Next Steps:** [What is happening next]
+
+---
+
+**Want me to write a real one for you?** 
+Just reply with your raw notes, bullet points, or what you did today, and I’ll turn it into a clean, professional summary!
