@@ -1,31 +1,30 @@
-Here are a few quick ways to format a daily update, depending on your audience. 
+To give you the best summary, **what type of daily update do you need?** 
 
-### Option 1: Quick Team Standup (Scrum Style)
-> **📅 Daily Update — [Date]**
-> * **Yesterday:** Completed [Task A] and reviewed [Task B].
-> * **Today:** Working on [Task C] and finalizing [Task D].
-> * **Blockers:** Waiting on approval for [Item X].
+Here are a few quick ways I can help—just let me know which one you prefer, or paste your raw notes/data below:
 
 ---
 
-### Option 2: Executive Summary (High-Level)
-> **📊 Daily Briefing — [Date]**
-> * **🟢 Key Wins:** [Major achievement or milestone hit today].
-> * **🟡 In Progress:** [Current primary focus or ongoing project].
-> * **🔴 Risks/Needs Attention:** [Any urgent decision, delay, or resource needed].
-> * **🎯 Tomorrow’s Priority:** [Top priority for the next 24 hours].
+### Option 1: Work / Project Daily Standup
+*If you paste your notes, I can format them into this structure:*
+
+* 🚀 **Key Accomplishments:** [What got done today]
+* ⏳ **In Progress:** [What is currently being worked on]
+* 🚧 **Blockers / Risks:** [Anything holding up progress]
+* 🎯 **Next Steps:** [Top priorities for tomorrow]
 
 ---
 
-### Option 3: General Project Status
-> **🚀 Project Update — [Date]**
-> * **Highlights:** [1-2 sentence summary of today's progress].
-> * **Completed:**
->   * Done with [Deliverable 1]
->   * Sent [Deliverable 2] for review
-> * **Next Steps:** [What is happening next]
+### Option 2: General News Briefing
+*If you want a summary of today's world/tech news:*
+* 🌍 **World News:** Quick updates on major global events.
+* 📈 **Markets & Economy:** Brief summary of key financial updates.
+* 💻 **Tech & Innovation:** Trending tech and industry news.
 
 ---
 
-**Want me to write a real one for you?** 
-Just reply with your raw notes, bullet points, or what you did today, and I’ll turn it into a clean, professional summary!
+### Option 3: Custom Summary
+Just paste any raw text, meeting notes, or emails, and I will boil them down into a **3-bullet point executive summary**.
+
+***
+
+**How would you like to proceed?** (e.g., "Summarize today's tech news" or paste your notes!)
