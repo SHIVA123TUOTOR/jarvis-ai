@@ -1,30 +1,30 @@
-To give you the best summary, **what type of daily update do you need?** 
+Here is a clean, versatile format for a quick daily update summary. 
 
-Here are a few quick ways I can help—just let me know which one you prefer, or paste your raw notes/data below:
+### 📅 Daily Update: [Date]
 
----
+**🚀 Top Priorities Today**
+* **Task 1:** [Primary goal/deliverable for today]
+* **Task 2:** [Secondary priority]
 
-### Option 1: Work / Project Daily Standup
-*If you paste your notes, I can format them into this structure:*
+**✅ Progress & Key Wins (Yesterday/Recent)**
+* **Completed:** [Item/Project finished]
+* **Milestone:** [Key achievement or positive development]
+* **Update:** [Status on an ongoing effort]
 
-* 🚀 **Key Accomplishments:** [What got done today]
-* ⏳ **In Progress:** [What is currently being worked on]
-* 🚧 **Blockers / Risks:** [Anything holding up progress]
-* 🎯 **Next Steps:** [Top priorities for tomorrow]
+**🚧 Blockers & Risks**
+* **Need Input:** [Decisions or approvals needed from others]
+* **Issue:** [Any current challenge or delay (or write "None")]
 
----
-
-### Option 2: General News Briefing
-*If you want a summary of today's world/tech news:*
-* 🌍 **World News:** Quick updates on major global events.
-* 📈 **Markets & Economy:** Brief summary of key financial updates.
-* 💻 **Tech & Innovation:** Trending tech and industry news.
+**🔮 Looking Ahead (Tomorrow)**
+* [Brief mention of upcoming focus or deadlines]
 
 ---
 
-### Option 3: Custom Summary
-Just paste any raw text, meeting notes, or emails, and I will boil them down into a **3-bullet point executive summary**.
+### 💡 Need a specific type of update? 
+If you tell me your industry or role, I can generate a tailored summary for you:
+1. **Software / Agile Standup** (Did yesterday / Doing today / Blockers)
+2. **Executive / Management Brief** (KPIs, High-level highlights, Risks)
+3. **Marketing / Sales Pulse** (Leads, Campaigns, Revenue updates)
+4. **Personal Productivity Log** (Habits, Tasks, To-Do list) 
 
-***
-
-**How would you like to proceed?** (e.g., "Summarize today's tech news" or paste your notes!)
+*Just share a few raw notes or bullet points, and I will format them into a polished summary!*
