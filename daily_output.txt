@@ -1,30 +1,23 @@
-Here is a clean, versatile format for a quick daily update summary. 
+Here is a standard, clean format for a quick daily update. You can copy and fill in your details:
 
-### 📅 Daily Update: [Date]
+***
 
-**🚀 Top Priorities Today**
-* **Task 1:** [Primary goal/deliverable for today]
-* **Task 2:** [Secondary priority]
+### 📅 **Daily Update – [Date]**
 
-**✅ Progress & Key Wins (Yesterday/Recent)**
-* **Completed:** [Item/Project finished]
-* **Milestone:** [Key achievement or positive development]
-* **Update:** [Status on an ongoing effort]
+**✅ Completed Today / Yesterday:**
+* [Task 1 name] – Completed and verified.
+* [Task 2 name] – Sent for review.
 
-**🚧 Blockers & Risks**
-* **Need Input:** [Decisions or approvals needed from others]
-* **Issue:** [Any current challenge or delay (or write "None")]
+**🔄 In Progress / Planned for Today:**
+* [Task 3 name] – Drafting final version (ETA: 3:00 PM).
+* [Task 4 name] – Beginning initial research/setup.
 
-**🔮 Looking Ahead (Tomorrow)**
-* [Brief mention of upcoming focus or deadlines]
+**⚠️ Blockers / Needs Attention:**
+* *None* OR [e.g., Waiting on design sign-off from Team X / Server access needed].
 
----
+**💡 Quick Notes / Key Metric:**
+* Next milestone deadline: [Date].
 
-### 💡 Need a specific type of update? 
-If you tell me your industry or role, I can generate a tailored summary for you:
-1. **Software / Agile Standup** (Did yesterday / Doing today / Blockers)
-2. **Executive / Management Brief** (KPIs, High-level highlights, Risks)
-3. **Marketing / Sales Pulse** (Leads, Campaigns, Revenue updates)
-4. **Personal Productivity Log** (Habits, Tasks, To-Do list) 
+***
 
-*Just share a few raw notes or bullet points, and I will format them into a polished summary!*
+*If you were looking for a **summary of today's real-world news or a specific industry update** (e.g., Tech, Finance, AI), let me know which topic you'd like me to cover!*
