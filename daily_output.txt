@@ -1,39 +1,32 @@
-Here are a few quick formats you can use. Choose the one that best fits your needs, or **paste your raw notes/bullet points in a reply, and I will format them into a polished summary for you!**
+Here is a quick **Daily Update Template** you can use right away, along with a quick mock example. 
 
 ---
 
-### Option 1: Classic Standup (Best for Teams & Tech)
-* **Date:** [Insert Date]
-* ✅ **Completed Yesterday:** 
-  * [Task 1]
-  * [Task 2]
-* 🎯 **Today’s Focus:** 
+### **Option 1: Project / Team Standup (Fill-in-the-Blank)**
+
+📅 **Daily Summary — [Date]**
+
+* **🚀 Key Wins Today:**
+  * [Completed Task/Milestone 1]
+  * [Completed Task/Milestone 2]
+
+* **🔄 In Progress:**
+  * [Task currently being worked on] — *(Target completion: [Time/Date])*
+
+* **🚨 Blockers / Risks:**
+  * [None / Brief description of anything holding up progress]
+
+* **🎯 Top Priorities for Tomorrow:**
   * [Priority 1]
   * [Priority 2]
-* 🚧 **Blockers/Risks:** 
-  * [None / Description of issue]
 
 ---
 
-### Option 2: Executive Brief (Best for Managers & Clients)
-**📌 Status:** On Track 🟢 | At Risk 🟡 | Off Track 🔴
+### **Option 2: Executive Summary Format (Short Paragraph)**
 
-* **Top Headline:** [One sentence summarizing the biggest news of the day]
-* 🚀 **Key Accomplishments:**
-  * [Major win or completed milestone]
-* 🔄 **In Progress:**
-  * [Current major task]
-* ⚠️ **Attention Needed:**
-  * [Decision required or resource needed from leadership]
+> **Daily Briefing — [Date]:** Today, the primary focus was on [Main Initiative]. We successfully [key achievement, e.g., finalized the Q3 report / resolved the server issue]. Currently, [Secondary Task] is underway and expected to wrap up by [Time]. There are no major blockers at this time, and tomorrow's focus will shift to [Next Key Task].
 
 ---
 
-### Option 3: Quick Pulse (Best for Slack/Teams messages)
-> **Daily Digest – [Date]**
-> * **Highlights:** [1-2 key accomplishments]
-> * **Next Up:** [Main focus for tomorrow]
-> * **KPIs/Metrics:** [Quick metric, e.g., Sales, Tickets Closed, Progress %]
-
----
-
-👉 **Want me to build one right now?** Just reply with a dump of what you worked on today, and I’ll turn it into a clean daily update!
+💡 **How would you like to customize this?** 
+If you paste your raw notes, bullet points, or news topics below, I will immediately format them into a clean, professional summary for your team, manager, or personal records!
