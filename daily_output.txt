@@ -1,38 +1,21 @@
-Here are a few ways to format a quick daily update, depending on who you are sending it to. 
-
-### Option 1: Standard Project/Team Standup (Most Popular)
-> **📅 Daily Update – [Date]**
-> 
-> **🟢 Status:** On Track 
-> 
-> **✅ Completed Yesterday:**
-> * [Task 1 completed]
-> * [Task 2 completed]
-> 
-> **🎯 Focus Today:**
-> * [Main priority 1]
-> * [Main priority 2]
-> 
-> **🚨 Blockers / Risks:**
-> * [None / Waiting on X approval from Y team]
-
----
-
-### Option 2: Executive / High-Level Summary (For Managers/Clients)
-> **📊 Daily Snapshot – [Date]**
-> 
-> **Top Highlight:** [1 sentence summarizing the biggest win or release today]
-> 
-> **Key Metrics:**
-> * **[Metric 1]:** [Number/Status]
-> * **[Metric 2]:** [Number/Status]
-> 
-> **Next Milestones:**
-> * [Upcoming deadline or deliverable for tomorrow/this week]
-
----
+Here is a clean, easy-to-read template for a quick daily update:
 
 ***
 
-**Want me to generate a real one for you right now?** 
-Just drop a few rough notes or bullet points about what you did today, and I'll polish it into a clean, professional summary!
+📅 **Daily Update — [Date]**
+
+* 🟢 **Completed Today:**
+  * [Key task or achievement 1]
+  * [Key task or achievement 2]
+
+* 🟡 **In Progress / Next Steps:**
+  * [Task currently being worked on]
+  * [Top priority for tomorrow]
+
+* 🔴 **Blockers / Need Support:**
+  * [Anything holding up progress, or "None"]
+
+***
+
+**Want me to write a custom summary for you?** 
+Reply with a few rough notes or bullet points about what happened today, and I’ll format it into a polished update immediately!
