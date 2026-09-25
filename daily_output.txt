@@ -1,21 +1,52 @@
-Here is a clean, easy-to-read template for a quick daily update:
+Here are two quick daily update templates depending on how detailed you want to be, followed by an example. 
 
-***
+---
+
+### Option 1: Standard Daily Update (Best for teams/Slack/Email)
 
 📅 **Daily Update — [Date]**
 
-* 🟢 **Completed Today:**
-  * [Key task or achievement 1]
-  * [Key task or achievement 2]
+✅ **Completed Today:**
+*   [Task 1 completed]
+*   [Task 2 completed]
 
-* 🟡 **In Progress / Next Steps:**
-  * [Task currently being worked on]
-  * [Top priority for tomorrow]
+🔄 **In Progress / Focus for Tomorrow:**
+*   [Task 1 in progress]
+*   [Task 2 planned]
 
-* 🔴 **Blockers / Need Support:**
-  * [Anything holding up progress, or "None"]
+🚧 **Blockers / Needs:**
+*   [None / Need approval on X from Y]
 
-***
+📌 **Key Takeaways / Notes:**
+*   [Any quick metric, decision, or update]
 
-**Want me to write a custom summary for you?** 
-Reply with a few rough notes or bullet points about what happened today, and I’ll format it into a polished update immediately!
+---
+
+### Option 2: Executive Summary (Best for quick reading/management)
+
+**TL;DR:** [One sentence summarizing the biggest highlight or status of the day].
+
+*   🏆 **Top Win:** [Major milestone or completed task]
+*   🎯 **Current Focus:** [Main task being worked on]
+*   ⚠️ **Needs Attention:** [Any urgent risk, decision required, or blocker]
+
+---
+
+### 📝 Example (Filled Out)
+
+📅 **Daily Update — Oct 24**
+
+✅ **Completed Today:**
+*   Finalized the Q4 marketing budget proposal.
+*   Fixed the login bug on the staging environment.
+
+🔄 **In Progress / Focus for Tomorrow:**
+*   Drafting the client onboarding presentation.
+*   Conducting user testing for the new dashboard feature.
+
+🚧 **Blockers / Needs:**
+*   Waiting on Design team for final logo assets (needed by 2 PM tomorrow).
+
+---
+
+*If you’d like me to write a specific update for you, just drop in a few raw notes/bullet points of what you did today!*
