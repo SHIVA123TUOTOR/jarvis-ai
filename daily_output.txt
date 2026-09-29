@@ -1,43 +1,43 @@
-Since you didn't mention a specific topic, here are three common formats for a quick daily update. 
-
-Choose the one that fits your needs, or **reply with your raw notes/topic**, and I will format it for you immediately!
+Here is a standard **Daily Update Summary** template you can use right away, along with a quick mock example. 
 
 ---
 
-### Option 1: Quick Team/Project Standup (Agile Format)
-📅 **Date:** [Insert Date]  
-🎯 **Focus:** [Primary Goal/Project Name]
+### 📅 **Daily Update: [Date]**
 
-* **✅ Done Yesterday:** 
-  * Completed [Task A] and pushed to review.
-  * Resolved issue with [System/Client B].
-* **🎯 Today's Priorities:** 
-  * Finalize draft for [Deliverable C].
-  * Meeting with [Team/Client] at [Time].
-* **🚧 Blockers / Risks:** 
-  * Awaiting feedback from [Person/Department] on [Task D].
+* **🚀 Key Wins / Completed:**
+  * [Task/Milestone 1 completed]
+  * [Task/Milestone 2 completed]
 
----
+* **⚙️ In Progress (Today’s Focus):**
+  * [Current task 1] — *Target completion: [Time/Date]*
+  * [Current task 2]
 
-### Option 2: Executive / Manager Brief (High-Level)
-📌 **Daily Executive Summary – [Date]**
+* **🛑 Blockers / Risks:**
+  * [Any delay, missing info, or needed approval] *(Or: None)*
 
-* **TL;DR:** Core operations are on track. Key milestone for [Project Name] achieved ahead of schedule.
-* **Key Highlights:**
-  * **Sales/Metrics:** [Insert metric, e.g., +5% increase in sign-ups today].
-  * **Operations:** [Insert major update, e.g., Onboarding process updated].
-* **Attention Needed:** Decision required on [Topic/Budget] by EOD tomorrow.
+* **📣 Action Needed from Others:**
+  * [@Name needed to review/approve X]
 
 ---
 
-### Option 3: Personal Productivity / Daily Recap
-📝 **Daily Summary:**
+### 📝 Example (How it looks filled out):
 
-* **Top Accomplishment:** [Best thing done today]
-* **Tasks Cleared:** [Task 1], [Task 2], [Task 3]
-* **Carried Over to Tomorrow:** [Task 4]
-* **Notes/Ideas:** [Quick thought or learning from today]
+📅 **Daily Update: October 24**
+
+* **🚀 Key Wins / Completed:**
+  * Finalized the Q3 Marketing Analytics report.
+  * Held kickoff call with the new design vendor.
+
+* **⚙️ In Progress (Today’s Focus):**
+  * Drafting user onboarding email sequence — *Target completion: 4 PM*
+  * Reviewing pull requests for website bug fixes.
+
+* **🛑 Blockers / Risks:**
+  * Waiting on legal approval for the updated privacy policy before publishing the form.
+
+* **📣 Action Needed from Others:**
+  * @Sarah — Needs final sign-off on the event budget by EOD.
 
 ---
 
-👉 *Want me to write one specifically for you? Just drop your raw text, bullet points, or topic below!*
+**Would you like me to generate a specific summary for you?** Just reply with a few bullet points of what you did today, and I will format it perfectly!
