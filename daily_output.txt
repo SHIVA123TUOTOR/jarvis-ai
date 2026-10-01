@@ -1,24 +1,40 @@
-To give you the exact summary you need, could you clarify what type of update you're looking for? 
+Here are a few quick daily update formats depending on your needs. 
 
-Here are a few options:
+### Option 1: Standard Team/Project Standup (Best for Slack/Teams)
 
-### 1. Project / Work Daily Update (Standup Template)
-If you want to paste your raw notes, tasks, or emails, I can convert them into this format:
-* **Key Accomplishments Today:** [Task 1, Task 2]
-* **In Progress / Focus for Tomorrow:** [Task 3]
-* **Blockers / Risks:** [Any delays or help needed]
-* **Upcoming Deadlines:** [Milestone dates]
+📅 **Daily Update — [Date]**
+👤 **Name / Role:** [Your Name]
 
----
-
-### 2. General News & Market Snapshot
-If you want a summary of today's global events, I can provide:
-* **Top Headlines:** Major world news.
-* **Tech & Business:** Key market moves and tech updates.
-* **Quick Stats:** Market indexes or key metrics.
+* **✅ Done Yesterday:**
+  * Completed [Task 1]
+  * Resolved issue with [Task/System]
+* **🎯 Focus Today:**
+  * Draft/build [Task 2]
+  * Meeting with [Stakeholder/Team] regarding [Topic]
+* **🚨 Blockers / Risks:**
+  * None *(or: "Waiting on approval from [Name] for [X]")*
 
 ---
 
-**How would you like to proceed?** 
-1. **Paste your rough notes/text** here, and I'll summarize them into a clean update.
-2. Tell me a **specific topic** (e.g., "Summarize today's tech news" or "Summarize financial markets").
+### Option 2: Executive / High-Level Briefing (Best for Management)
+
+📊 **Daily Project Snapshot — [Project Name]**
+🟢 **Status:** On Track | 🟡 At Risk | 🔴 Delayed
+
+* **🌟 Key Win:** [Major milestone hit or major blocker cleared]
+* **📌 Today’s Top Priority:** [The #1 focus for the day]
+* **⚠️ Decisions Needed:** [Action item required from leadership, if any]
+
+---
+
+### Option 3: Fill-in-the-Blank Example (Ready to copy & edit)
+
+📅 **Daily Update — Oct 24**
+
+* **Completed:** Pushed code fix for login bug, finalized Q4 slide deck.
+* **In Progress:** Testing checkout flow, onboarding new designer.
+* **Blockers:** Need final copy from marketing to launch landing page.
+
+***
+
+*If you were looking for a daily summary of **world news, tech trends, or market updates**, let me know what topic you'd like summarized!*
