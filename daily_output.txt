@@ -1,40 +1,21 @@
-Here are a few quick daily update formats depending on your needs. 
+To give you the most accurate update, **what context would you like this summary for?** 
 
-### Option 1: Standard Team/Project Standup (Best for Slack/Teams)
-
-📅 **Daily Update — [Date]**
-👤 **Name / Role:** [Your Name]
-
-* **✅ Done Yesterday:**
-  * Completed [Task 1]
-  * Resolved issue with [Task/System]
-* **🎯 Focus Today:**
-  * Draft/build [Task 2]
-  * Meeting with [Stakeholder/Team] regarding [Topic]
-* **🚨 Blockers / Risks:**
-  * None *(or: "Waiting on approval from [Name] for [X]")*
+Here are a few quick options depending on what you need:
 
 ---
 
-### Option 2: Executive / High-Level Briefing (Best for Management)
-
-📊 **Daily Project Snapshot — [Project Name]**
-🟢 **Status:** On Track | 🟡 At Risk | 🔴 Delayed
-
-* **🌟 Key Win:** [Major milestone hit or major blocker cleared]
-* **📌 Today’s Top Priority:** [The #1 focus for the day]
-* **⚠️ Decisions Needed:** [Action item required from leadership, if any]
+### Option 1: Work / Project Daily Standup (Fill-in-the-blank)
+* **Yesterday’s Wins:** Completed `[Task A]`, resolved `[Issue B]`.
+* **Today’s Focus:** Finalizing `[Task C]`, starting `[Task D]`.
+* **Blockers / Risks:** Waiting on approval for `[Item E]`.
+* **Overall Status:** 🟢 On Track | 🟡 At Risk | 🔴 Delayed
 
 ---
 
-### Option 3: Fill-in-the-Blank Example (Ready to copy & edit)
+### Option 2: Need a summary of actual World News, Tech, or Financial Markets?
+> *Reply with **"News"**, **"Tech"**, or **"Markets"**, and I will generate a real-time summary for today.*
 
-📅 **Daily Update — Oct 24**
+---
 
-* **Completed:** Pushed code fix for login bug, finalized Q4 slide deck.
-* **In Progress:** Testing checkout flow, onboarding new designer.
-* **Blockers:** Need final copy from marketing to launch landing page.
-
-***
-
-*If you were looking for a daily summary of **world news, tech trends, or market updates**, let me know what topic you'd like summarized!*
+### Option 3: Summarize your own notes or emails
+> *Paste your raw notes, email threads, or bullet points below, and I will turn them into a clean, professional daily summary for you!*
