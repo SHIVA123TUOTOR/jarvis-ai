@@ -1,21 +1,42 @@
-To give you the most accurate update, **what context would you like this summary for?** 
-
-Here are a few quick options depending on what you need:
+Here is a clean, standard format for a quick daily update summary, along with an example.
 
 ---
 
-### Option 1: Work / Project Daily Standup (Fill-in-the-blank)
-* **Yesterday’s Wins:** Completed `[Task A]`, resolved `[Issue B]`.
-* **Today’s Focus:** Finalizing `[Task C]`, starting `[Task D]`.
-* **Blockers / Risks:** Waiting on approval for `[Item E]`.
-* **Overall Status:** 🟢 On Track | 🟡 At Risk | 🔴 Delayed
+### **Daily Update Template**
+
+**Date:** [Insert Date]  
+**Status:** 🟢 *On Track* / 🟡 *At Risk* / 🔴 *Blocked*
+
+* **Key Accomplishments (What got done):**
+  * Completed [Task 1]
+  * Resolved [Issue/Bug 2]
+  * Delivered [Deliverable/Project 3]
+
+* **Today’s Focus (What's in progress):**
+  * Working on [Current Task 1]
+  * Preparing for [Upcoming Milestone/Meeting 2]
+
+* **Blockers / Risks:**
+  * [None / Waiting on X from Team Y]
 
 ---
 
-### Option 2: Need a summary of actual World News, Tech, or Financial Markets?
-> *Reply with **"News"**, **"Tech"**, or **"Markets"**, and I will generate a real-time summary for today.*
+### **Example (How it looks filled out):**
+
+**Date:** October 24, 2023  
+**Status:** 🟢 On Track
+
+* **Key Accomplishments:**
+  * Finalized and sent the Q4 Marketing Budget for approval.
+  * Resolved the login authentication bug on the staging server.
+
+* **Today’s Focus:**
+  * Drafting the client onboarding email sequence (target completion: 3 PM).
+  * Prepping presentation slides for tomorrow’s team sync.
+
+* **Blockers / Risks:**
+  * Waiting on legal sign-off for the vendor contract before proceeding.
 
 ---
 
-### Option 3: Summarize your own notes or emails
-> *Paste your raw notes, email threads, or bullet points below, and I will turn them into a clean, professional daily summary for you!*
+*If you need a specific type of daily update (e.g., for **Software/Scrum Standups**, an **Executive/Management Briefing**, or a **Personal Productivity Journal**), let me know and I can tailor it for you!*
