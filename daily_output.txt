@@ -1,26 +1,44 @@
-Here is a clean, standard template for a quick daily update summary. 
+Here are a few quick formats you can use, depending on your needs. 
+
+### Option 1: Quick "Standup" Template (Copy & Fill)
+
+**📅 Daily Update — [Date]**
+
+*   **✅ Done Today:**
+    *   [Task 1 completed]
+    *   [Task 2 completed]
+*   **🎯 Focus for Tomorrow:**
+    *   [Priority 1]
+    *   [Priority 2]
+*   **⚠️ Blockers / Risks:**
+    *   [None / Need approval on X / Waiting for Y]
+
+---
+
+### Option 2: Executive Summary Style (For Management)
+
+**📊 Daily Briefing — [Project/Team Name]**
+
+*   **Overall Status:** 🟩 On Track | 🟨 At Risk | 🟥 Delayed
+*   **Key Win:** [Major milestone or achievement today]
+*   **Critical Focus:** [Primary focus for the next 24 hours]
+*   **Action Needed:** [Any decisions or support needed from leadership]
+
+---
+
+### Option 3: Example Filled-Out Summary (Project Management)
+
+**📅 Daily Update — Oct 24**
+
+*   **✅ Completed:**
+    *   Finalized Q4 budget draft and submitted for approval.
+    *   Resolved the login bug on the staging server.
+*   **🎯 Priorities for Tomorrow:**
+    *   Host kickoff meeting with the marketing team (10:00 AM).
+    *   Draft outline for the client proposal.
+*   **⚠️ Blockers:**
+    *   Waiting on legal to sign off on the vendor contract before we can proceed.
 
 ***
 
-### 📅 **Daily Update Summary – [Date]**
-
-**✅ Key Accomplishments (Done Today)**
-* **[Task/Project 1]:** Completed [brief result/outcome].
-* **[Task/Project 2]:** Finalized [brief result/outcome].
-* **[Meeting/Communication]:** Met with [Team/Client] regarding [Topic]; agreed on [Next Step].
-
-**⏳ In Progress & Focus for Tomorrow**
-* **[Priority 1]:** Drafting/Developing [Deliverable].
-* **[Priority 2]:** Reviewing [Document/Code/Design].
-
-**🚨 Blockers & Risks**
-* **[Blocker Name]:** Awaiting approval/feedback from [Name/Department] on [Topic]. *(Or: None at this time).*
-
-**📊 Quick Metrics / Status**
-* **Project Health:** 🟢 On Track | 🟡 At Risk | 🔴 Delayed
-* **Overall Progress:** [e.g., 75% complete]
-
-***
-
-💡 **Would you like me to fill this out for you?** 
-Just reply with your rough notes, bullet points, or list of tasks completed today, and I’ll format it into a polished summary!
+**Would you like me to draft a summary tailored to your specific work?** Just reply with a few quick notes or bullet points about what you did today, and I'll format it for you!
