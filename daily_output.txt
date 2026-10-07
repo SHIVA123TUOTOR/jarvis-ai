@@ -1,43 +1,43 @@
-Here is a clean, versatile template you can copy and use, followed by a quick example.
+Here are a few quick daily update formats depending on your needs. You can copy/paste and fill in the blanks, or **paste your raw notes below and I will generate one for you!**
 
 ---
 
-### 📋 **Daily Summary Template**
+### Option 1: Standard Team/Project Update (Best for Email, Slack, or Teams)
 
-**Date:** [Insert Date]  
-**Prepared by:** [Your Name / Team]
+📅 **Daily Update — [Date]**
 
-**✅ Completed (Yesterday / Top Wins)**
-* [Task/Project 1] – Completed [brief detail or outcome]
-* [Task/Project 2] – Resolved [brief detail]
+🟢 **Status:** On Track 
 
-**🎯 Today’s Priorities (Focus Areas)**
-* [Priority 1] – Goal for today
-* [Priority 2] – Goal for today
+✅ **Completed Today:**
+* [Key task 1 completed]
+* [Key task 2 completed]
 
-**⚠️ Blockers & Risks**
-* [Item] – *[Action needed or person responsible to unblock]* *(Write "None" if clear)*
+⏳ **In Progress / Focus for Tomorrow:**
+* [Main task for tomorrow]
+* [Secondary task/meeting]
 
----
-
-### 💡 **Example in Action**
-
-**Date:** October 24, 2023  
-**Status:** On Track 🟢
-
-**✅ Completed**
-* **Website Redesign:** Finalized mobile homepage layout and pushed to staging.
-* **Client Onboarding:** Conducted kick-off call with Acme Corp.
-
-**🎯 Today’s Priorities**
-* **QA Testing:** Run tests on the new payment gateway integration.
-* **Q3 Report:** Complete first draft of performance metrics for review.
-
-**⚠️ Blockers & Risks**
-* Waiting on API credentials from the security team to complete the database sync.
+🚨 **Blockers / Risks:**
+* [None / Brief description of what is holding up progress]
 
 ---
 
-***
+### Option 2: Executive Summary (High-Level for Managers/Clients)
 
-**Need a customized update?** Paste your raw notes, key tasks, or project updates here, and I will format a polished, concise summary for you!
+**Daily Briefing — [Project Name] | [Date]**
+
+* **Top Win:** [Single biggest accomplishment today]
+* **Key Metric/Milestone:** [e.g., Launched feature X, Reached 80% completion, Closed $5k]
+* **Critical Next Step:** [What needs to happen next]
+* **Needs Attention:** [Any decisions required from leadership, or "None"]
+
+---
+
+### Option 3: Quick Personal Standup (3-Bullet Point Style)
+
+* **Done:** Finished the draft for Project X and sent it for review.
+* **Next:** Outlining the Q3 strategy and prepping for the 2 PM client call.
+* **Blocker:** Waiting on design assets from the creative team.
+
+---
+
+👉 **Want me to fill this out for you?** Just reply with a few quick bullet points of what you did today, and I’ll format it perfectly!
