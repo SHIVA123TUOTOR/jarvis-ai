@@ -1,43 +1,43 @@
-Here are a few quick daily update formats depending on your needs. You can copy/paste and fill in the blanks, or **paste your raw notes below and I will generate one for you!**
+Here are a few formats for a quick daily update, depending on your audience. 
+
+### Option 1: Standard Team Standup (Best for Slack/Teams)
+
+**📅 Daily Update — [Date]**
+* **Overall Status:** 🟢 On Track | 🟡 Need Attention | 🔴 Blocked
+
+* **Key Achievements Today:**
+  * Completed [Task/Project A]
+  * Resolved issue with [Task/System B]
+  * Finalized [Document/Meeting C]
+
+* **Focus for Tomorrow:**
+  * Begin work on [Priority Task 1]
+  * Follow up with [Person/Team] regarding [Topic]
+
+* **Blockers / Risks:**
+  * [None OR brief description of what is holding up progress]
 
 ---
 
-### Option 1: Standard Team/Project Update (Best for Email, Slack, or Teams)
+### Option 2: Executive Summary (Best for Managers/Clients)
 
-📅 **Daily Update — [Date]**
+**TL;DR:** Today we successfully wrapped up [Major Milestone] and are on track for [Upcoming Goal]. No critical blockers.
 
-🟢 **Status:** On Track 
-
-✅ **Completed Today:**
-* [Key task 1 completed]
-* [Key task 2 completed]
-
-⏳ **In Progress / Focus for Tomorrow:**
-* [Main task for tomorrow]
-* [Secondary task/meeting]
-
-🚨 **Blockers / Risks:**
-* [None / Brief description of what is holding up progress]
+* **Top Wins:** 
+  1. Delivered [Output 1]
+  2. Approved [Decision/Budget 2]
+* **Next Priority:** Launching [Project Name] phase 2 tomorrow.
+* **Action Needed:** Need approval on [Item] by EOD tomorrow.
 
 ---
 
-### Option 2: Executive Summary (High-Level for Managers/Clients)
+### Option 3: Quick Personal / Solo Update
 
-**Daily Briefing — [Project Name] | [Date]**
-
-* **Top Win:** [Single biggest accomplishment today]
-* **Key Metric/Milestone:** [e.g., Launched feature X, Reached 80% completion, Closed $5k]
-* **Critical Next Step:** [What needs to happen next]
-* **Needs Attention:** [Any decisions required from leadership, or "None"]
+* **Done:** [Task 1], [Task 2]
+* **In Progress:** [Task 3]
+* **Up Next:** [Task 4]
+* **Notes:** [Any quick reminders or context]
 
 ---
 
-### Option 3: Quick Personal Standup (3-Bullet Point Style)
-
-* **Done:** Finished the draft for Project X and sent it for review.
-* **Next:** Outlining the Q3 strategy and prepping for the 2 PM client call.
-* **Blocker:** Waiting on design assets from the creative team.
-
----
-
-👉 **Want me to fill this out for you?** Just reply with a few quick bullet points of what you did today, and I’ll format it perfectly!
+💡 *If you'd like me to fill this out with specific information, just reply with a few bullet points of what you worked on today, and I'll generate the final polished text for you!*
