@@ -1,43 +1,23 @@
-Here are a few formats for a quick daily update, depending on your audience. 
+To give you the exact summary you need, **what topic or content would you like me to summarize?** 
 
-### Option 1: Standard Team Standup (Best for Slack/Teams)
+You can paste raw text, meeting notes, or ask for a specific subject (e.g., *world news, tech trends, stock market, or a project standup*).
 
-**📅 Daily Update — [Date]**
-* **Overall Status:** 🟢 On Track | 🟡 Need Attention | 🔴 Blocked
+***
 
-* **Key Achievements Today:**
-  * Completed [Task/Project A]
-  * Resolved issue with [Task/System B]
-  * Finalized [Document/Meeting C]
+In the meantime, here are two standard formats I can instantly generate for you once you share the details:
 
-* **Focus for Tomorrow:**
-  * Begin work on [Priority Task 1]
-  * Follow up with [Person/Team] regarding [Topic]
+### Option 1: Work / Project Standup Summary
+* **📅 Date:** [Today's Date]
+* 🟢 **Key Accomplishments:** [Major tasks completed today]
+* 🟡 **In Progress:** [Tasks currently being worked on]
+* 🔴 **Blockers / Risks:** [Any issues needing attention]
+* ➡️ **Next Steps:** [Top priorities for tomorrow]
 
-* **Blockers / Risks:**
-  * [None OR brief description of what is holding up progress]
+### Option 2: Daily News & Industry Briefing
+* 📈 **Markets & Business:** Quick snapshot of major market movements or economic trends.
+* 🤖 **Tech & Innovation:** Highlights on the top story in tech or AI today.
+* 🌍 **Global Overview:** 2–3 major headlines from around the world.
 
----
+***
 
-### Option 2: Executive Summary (Best for Managers/Clients)
-
-**TL;DR:** Today we successfully wrapped up [Major Milestone] and are on track for [Upcoming Goal]. No critical blockers.
-
-* **Top Wins:** 
-  1. Delivered [Output 1]
-  2. Approved [Decision/Budget 2]
-* **Next Priority:** Launching [Project Name] phase 2 tomorrow.
-* **Action Needed:** Need approval on [Item] by EOD tomorrow.
-
----
-
-### Option 3: Quick Personal / Solo Update
-
-* **Done:** [Task 1], [Task 2]
-* **In Progress:** [Task 3]
-* **Up Next:** [Task 4]
-* **Notes:** [Any quick reminders or context]
-
----
-
-💡 *If you'd like me to fill this out with specific information, just reply with a few bullet points of what you worked on today, and I'll generate the final polished text for you!*
+**How would you like to proceed?** Just paste your notes or tell me the topic, and I'll generate it right away!
