@@ -1,23 +1,41 @@
-To give you the exact summary you need, **what topic or content would you like me to summarize?** 
+Here are a few quick formats you can use, depending on your audience. 
 
-You can paste raw text, meeting notes, or ask for a specific subject (e.g., *world news, tech trends, stock market, or a project standup*).
+### Option 1: Standard Daily Standup (Best for Teams/Slack)
+**Date:** [Insert Date]  
+
+* **✅ Done Today:**
+  * Completed [Task/Project 1]
+  * Finalized [Task/Project 2]
+* **🎯 Focus for Tomorrow:**
+  * Draft/Start [Task 3]
+  * Meeting with [Name/Team] regarding [Topic]
+* **🚧 Blockers / Risks:**
+  * Waiting on approval for [Item] / *None*
+
+---
+
+### Option 2: Executive Brief (Best for Managers/Clients)
+**Daily Update — [Date]**
+
+* **Status:** 🟢 On Track / 🟡 At Risk / 🔴 Delayed
+* **Top Win Today:** [Insert major achievement or milestone]
+* **Key Priority Tomorrow:** [Insert primary focus]
+* **Action Required:** [Decision needed from boss/client, or "None"]
+
+---
+
+### Example (Filled Out):
+**Daily Update — Oct 24**
+
+* **✅ Done Today:**
+  * Sent the Q4 budget draft to Finance for review.
+  * Resolved 3 client support tickets regarding login issues.
+* **🎯 Focus for Tomorrow:**
+  * Complete the outline for the new marketing campaign.
+  * 1-on-1 check-in with Sarah at 2:00 PM.
+* **🚧 Blockers:**
+  * Need design assets from Alex before starting the landing page update.
 
 ***
 
-In the meantime, here are two standard formats I can instantly generate for you once you share the details:
-
-### Option 1: Work / Project Standup Summary
-* **📅 Date:** [Today's Date]
-* 🟢 **Key Accomplishments:** [Major tasks completed today]
-* 🟡 **In Progress:** [Tasks currently being worked on]
-* 🔴 **Blockers / Risks:** [Any issues needing attention]
-* ➡️ **Next Steps:** [Top priorities for tomorrow]
-
-### Option 2: Daily News & Industry Briefing
-* 📈 **Markets & Business:** Quick snapshot of major market movements or economic trends.
-* 🤖 **Tech & Innovation:** Highlights on the top story in tech or AI today.
-* 🌍 **Global Overview:** 2–3 major headlines from around the world.
-
-***
-
-**How would you like to proceed?** Just paste your notes or tell me the topic, and I'll generate it right away!
+**Would you like me to generate a specific summary for you?** Just paste your rough notes or bullet points here, and I'll clean them up!
