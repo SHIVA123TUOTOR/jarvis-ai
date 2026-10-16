@@ -1,40 +1,28 @@
-Since I don't have your specific context or notes from today, here is a **quick standard daily update format**, filled out with sample text, followed by a few templates you can use.
+Here is a clean, easy-to-read daily update template you can use right away. 
 
 ---
 
-### 📅 Daily Update: [Date]
+### **📌 Daily Update Summary: [Date]**
 
-**🚀 Key Accomplishments Today**
-* Completed final review of the [Project Name] proposal.
-* Held alignment meeting with [Team/Client]; all major decisions approved.
-* Resolved bug/issue related to [Topic/System].
+**🚀 High-Level Summary**
+* [1-sentence summary of today's main focus or general status, e.g., "On track for Friday’s launch; focused on final QA and client sign-offs today."]
 
-**⏳ In Progress / Focus for Tomorrow**
-* Draft content for [Deliverable Name] (Target completion: [Day]).
-* Follow up with [Person/Department] regarding [Subject].
+**✅ Completed (Yesterday / Recently)**
+* **[Project/Task 1]:** Wrapped up initial design mockups and sent for review.
+* **[Project/Task 2]:** Resolved API integration bug impacting user login.
+* **[Administrative]:** Cleared inbox and scheduled team sync for Thursday.
 
-**🛑 Blockers / Risks**
-* Waiting on feedback from [Department/Client] before proceeding with Step 3. *(No action needed from team yet)*
+**🔄 In Progress / Focus for Today**
+* **[Priority 1]:** Finalize draft for the Q3 Strategy proposal.
+* **[Priority 2]:** Conduct 1-on-1 check-ins with engineering leads.
+* **[Priority 3]:** Review customer feedback from the beta test.
+
+**⚠️ Blockers & Risks**
+* **[Blocker]:** Awaiting legal team approval on the updated terms of service before deployment.
 
 ---
 
-### Need a specific format? Pick one below and give me your rough notes:
-
-#### Option 1: Quick Slack/Teams Update (Casual & Short)
-> **Yesterday/Today:** Finished X, started working on Y.  
-> **Next:** Wrapping up Y, starting Z.  
-> **Blockers:** None.
-
-#### Option 2: Agile / Standup Style
-> **1. What I completed:** [Item 1, Item 2]  
-> **2. What I'm working on next:** [Item 3]  
-> **3. Blockers:** [Any roadblocks?]
-
-#### Option 3: Executive Summary (High-Level)
-> **Status:** 🟢 On Track / 🟡 At Risk / 🔴 Delayed  
-> **Major Milestone:** [Big win of the day]  
-> **Critical Focus:** [Main priority for tomorrow]  
-
-***
-
-**Want me to write one specifically for you?** Just reply with a few bullet points about what you did today, and I'll format it instantly!
+### **How would you like to customize this?**
+If you want me to write a real update for you right now, just paste your raw notes, bullet points, or thoughts below, and tell me:
+1. **Who is this for?** (e.g., Boss, Team Slack/Teams, Client, Personal log)
+2. **Tone:** (e.g., Casual, Formal, Technical)
