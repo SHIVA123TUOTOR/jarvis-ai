@@ -1,28 +1,43 @@
-Here is a clean, easy-to-read daily update template you can use right away. 
+Here are a few templates based on different needs. You can pick one, or **paste your raw notes/tasks below and I will generate a customized summary for you!**
 
 ---
 
-### **📌 Daily Update Summary: [Date]**
-
-**🚀 High-Level Summary**
-* [1-sentence summary of today's main focus or general status, e.g., "On track for Friday’s launch; focused on final QA and client sign-offs today."]
-
-**✅ Completed (Yesterday / Recently)**
-* **[Project/Task 1]:** Wrapped up initial design mockups and sent for review.
-* **[Project/Task 2]:** Resolved API integration bug impacting user login.
-* **[Administrative]:** Cleared inbox and scheduled team sync for Thursday.
-
-**🔄 In Progress / Focus for Today**
-* **[Priority 1]:** Finalize draft for the Q3 Strategy proposal.
-* **[Priority 2]:** Conduct 1-on-1 check-ins with engineering leads.
-* **[Priority 3]:** Review customer feedback from the beta test.
-
-**⚠️ Blockers & Risks**
-* **[Blocker]:** Awaiting legal team approval on the updated terms of service before deployment.
+### Option 1: Standard Work / Agile Standup
+> **📅 Daily Update – [Date]**
+>
+> **✅ Completed Yesterday:**
+> * [Task/Project 1] – Completed and deployed.
+> * [Task/Project 2] – Reviewed and sent for feedback.
+>
+> **🎯 Today’s Focus:**
+> * [Task/Project 3] – High priority; aim to finish by EOD.
+> * [Meeting Name] at [Time].
+>
+> **🚨 Blockers / Risks:**
+> * Waiting on design approval from [Name/Team].
 
 ---
 
-### **How would you like to customize this?**
-If you want me to write a real update for you right now, just paste your raw notes, bullet points, or thoughts below, and tell me:
-1. **Who is this for?** (e.g., Boss, Team Slack/Teams, Client, Personal log)
-2. **Tone:** (e.g., Casual, Formal, Technical)
+### Option 2: Executive / Manager Summary (High Level)
+> **📊 Daily Snapshot – [Date]**
+>
+> * **Key Win:** [Brief description of a major achievement or metric hit].
+> * **Status:** On track for [Weekly Goal / Project Target].
+> * **Top Priority Today:** [Main initiative being worked on].
+> * **Needs Attention:** [Any urgent decision or bottleneck requiring escalation].
+
+---
+
+### Option 3: Personal Productivity / Daily Planner
+> **📝 Daily Focus – [Date]**
+>
+> * **Top 3 Must-Dulls:**
+>   1. [ ] Priority 1
+>   2. [ ] Priority 2
+>   3. [ ] Priority 3
+> * **Quick Wins:** [E.g., Clear inbox, schedule appointments]
+> * **Reminder:** [E.g., Follow up with John, gym at 5 PM]
+
+---
+
+**Want me to write yours right now?** Just reply with a few quick bullet points about what you did, what you're doing next, and any blockers, and I'll format it instantly.
