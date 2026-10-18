@@ -1,43 +1,39 @@
-Here are a few templates based on different needs. You can pick one, or **paste your raw notes/tasks below and I will generate a customized summary for you!**
+Here is a clean, easy-to-read template for a daily update, along with an example. 
+
+### 📋 Daily Update Template
+
+**Date:** [Insert Date]  
+**Overall Status:** 🟢 On Track | 🟡 At Risk | 🔴 Delayed
+
+* **✅ Completed Today:**
+  * [Task 1]
+  * [Task 2]
+* **🎯 Focus for Tomorrow:**
+  * [Task 1]
+  * [Task 2]
+* **🚧 Blockers / Risks:**
+  * [None / Mention any dependencies or help needed]
 
 ---
 
-### Option 1: Standard Work / Agile Standup
-> **📅 Daily Update – [Date]**
->
-> **✅ Completed Yesterday:**
-> * [Task/Project 1] – Completed and deployed.
-> * [Task/Project 2] – Reviewed and sent for feedback.
->
-> **🎯 Today’s Focus:**
-> * [Task/Project 3] – High priority; aim to finish by EOD.
-> * [Meeting Name] at [Time].
->
-> **🚨 Blockers / Risks:**
-> * Waiting on design approval from [Name/Team].
+### 📝 Example Usage
 
----
+**Date:** October 24, 2023  
+**Overall Status:** 🟢 On Track
 
-### Option 2: Executive / Manager Summary (High Level)
-> **📊 Daily Snapshot – [Date]**
->
-> * **Key Win:** [Brief description of a major achievement or metric hit].
-> * **Status:** On track for [Weekly Goal / Project Target].
-> * **Top Priority Today:** [Main initiative being worked on].
-> * **Needs Attention:** [Any urgent decision or bottleneck requiring escalation].
+* **✅ Completed Today:**
+  * Finalized the Q4 marketing campaign proposal and sent it to leadership for review.
+  * Held the weekly alignment sync with the product team.
+  * Resolved 3 high-priority customer support escalation tickets.
 
----
+* **🎯 Focus for Tomorrow:**
+  * Draft the content calendar for November.
+  * Review the budget allocations with the finance team.
+  * Follow up on pending contractor invoices.
 
-### Option 3: Personal Productivity / Daily Planner
-> **📝 Daily Focus – [Date]**
->
-> * **Top 3 Must-Dulls:**
->   1. [ ] Priority 1
->   2. [ ] Priority 2
->   3. [ ] Priority 3
-> * **Quick Wins:** [E.g., Clear inbox, schedule appointments]
-> * **Reminder:** [E.g., Follow up with John, gym at 5 PM]
+* **🚧 Blockers / Risks:**
+  * Waiting on approval from the legal team regarding the updated terms of service (due Friday).
 
----
+***
 
-**Want me to write yours right now?** Just reply with a few quick bullet points about what you did, what you're doing next, and any blockers, and I'll format it instantly.
+*If you would like me to generate a specific update for you, just reply with a few bullet points of what you worked on today, and I’ll format it!*
