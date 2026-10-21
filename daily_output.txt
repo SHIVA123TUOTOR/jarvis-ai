@@ -1,25 +1,28 @@
-Here is a clean, easy-to-read **Daily Update Summary** template, along with an example. 
+To generate a tailored summary for you, please paste your notes, emails, or raw data below! 
 
-***
+In the meantime, here is a quick mock template of what a standard daily update looks like:
 
-### 📅 Daily Update: [Insert Date]
+---
 
-**🚀 Key Highlights & Wins**
-* Completed [Task/Project Name] ahead of schedule.
-* Resolved [Issue/Bug/Problem] affecting [Team/Client].
+### 📅 **Daily Update: [Date]**
 
-**🔄 Work in Progress**
-* Currently drafting [Document/Report/Design].
-* In discussions with [Team/Person] regarding [Topic].
+* **🚀 Key Highlights / Wins:**
+  * Completed the initial draft for [Project Name].
+  * Client approved the Q4 budget proposal.
 
-**⚠️ Blockers & Risks**
-* Pending approval/feedback from [Name/Department] for [Task].
+* **📊 Progress & Status:**
+  * **Design Team:** Sprint 3 is 80% complete; final reviews tomorrow.
+  * **Sales:** 3 new leads qualified; demo scheduled for Thursday.
 
-**🎯 Focus for Tomorrow**
-* Begin work on [Priority Task].
-* Attend scheduled meeting regarding [Project Name].
+* **⚠️ Blockers / Risks:**
+  * Pending API access approval from the security team (ETA: Tomorrow AM).
 
-***
+* **➡️ Next Steps for Tomorrow:**
+  * Submit final report to management by 2:00 PM.
+  * Standup meeting with the dev team at 10:00 AM.
 
-### 💡 Want me to generate one for you right now?
-Paste your raw notes, messy bullet points, or list of completed tasks below, and I will format them into a polished daily summary!
+---
+
+**How would you like to proceed?**
+1. **Paste your content/notes** here, and I will format it into a summary like the one above.
+2. Ask for a **quick news summary** (e.g., world news, tech, markets, or sports for today).
