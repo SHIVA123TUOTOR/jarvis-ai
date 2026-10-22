@@ -1,28 +1,33 @@
-To generate a tailored summary for you, please paste your notes, emails, or raw data below! 
+Here are a few templates for a quick daily update, depending on your context. 
 
-In the meantime, here is a quick mock template of what a standard daily update looks like:
+### Option 1: Team / Project Status (Most Common)
+**📅 Date:** [Today's Date]  
+**🚦 Status:** On Track 🟢 *(or At Risk 🟡 / Delayed 🔴)*
 
----
-
-### 📅 **Daily Update: [Date]**
-
-* **🚀 Key Highlights / Wins:**
-  * Completed the initial draft for [Project Name].
-  * Client approved the Q4 budget proposal.
-
-* **📊 Progress & Status:**
-  * **Design Team:** Sprint 3 is 80% complete; final reviews tomorrow.
-  * **Sales:** 3 new leads qualified; demo scheduled for Thursday.
-
-* **⚠️ Blockers / Risks:**
-  * Pending API access approval from the security team (ETA: Tomorrow AM).
-
-* **➡️ Next Steps for Tomorrow:**
-  * Submit final report to management by 2:00 PM.
-  * Standup meeting with the dev team at 10:00 AM.
+* **✅ Completed Today:**
+  * Finished draft of the [Project Name] proposal.
+  * Resolved critical bug in [System/App Name].
+  * Held alignment call with [Client/Department].
+* **⏳ In Progress / Up Next for Tomorrow:**
+  * Begin testing phase for [Feature/Project].
+  * Finalize budget review for Q3.
+* **⚠️ Blockers / Needs Attention:**
+  * Waiting on approval from Legal for the vendor contract.
 
 ---
 
-**How would you like to proceed?**
-1. **Paste your content/notes** here, and I will format it into a summary like the one above.
-2. Ask for a **quick news summary** (e.g., world news, tech, markets, or sports for today).
+### Option 2: Agile / Daily Standup (Short & Punchy)
+* **Yesterday:** Wrapped up API integration and updated team documentation.
+* **Today:** Deploying code to staging environment and running user tests.
+* **Blockers:** None currently.
+
+---
+
+### Option 3: Executive / Business Briefing (High-Level)
+* **Top Line:** Sales up 5% DOD; launch of [Campaign Name] successfully deployed.
+* **Key Metric:** 1,200 new user sign-ups today (Exceeded target by 10%).
+* **Action Item:** Exec team meeting scheduled for 2:00 PM tomorrow to review monthly targets.
+
+***
+
+**Want me to write one tailored to your specific day?** Just reply with a quick, messy list of what you did today, and I'll format it into a clean daily summary for you!
