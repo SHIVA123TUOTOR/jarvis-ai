@@ -1,33 +1,23 @@
-Here are a few templates for a quick daily update, depending on your context. 
+To give you the exact summary you need, **please paste your raw notes, bullet points, or topic details below!** 
 
-### Option 1: Team / Project Status (Most Common)
-**📅 Date:** [Today's Date]  
-**🚦 Status:** On Track 🟢 *(or At Risk 🟡 / Delayed 🔴)*
-
-* **✅ Completed Today:**
-  * Finished draft of the [Project Name] proposal.
-  * Resolved critical bug in [System/App Name].
-  * Held alignment call with [Client/Department].
-* **⏳ In Progress / Up Next for Tomorrow:**
-  * Begin testing phase for [Feature/Project].
-  * Finalize budget review for Q3.
-* **⚠️ Blockers / Needs Attention:**
-  * Waiting on approval from Legal for the vendor contract.
+In the meantime, here are two quick, ready-to-use templates depending on your context:
 
 ---
 
-### Option 2: Agile / Daily Standup (Short & Punchy)
-* **Yesterday:** Wrapped up API integration and updated team documentation.
-* **Today:** Deploying code to staging environment and running user tests.
-* **Blockers:** None currently.
+### Format 1: Work / Agile Daily Standup
+* **📅 Date:** [Today's Date]
+* **✅ Completed Yesterday:** [Task 1], [Task 2]
+* **🎯 Today's Focus:** [Task 1], [Task 2]
+* **🛑 Blockers / Risks:** [None / Brief description of issue]
 
 ---
 
-### Option 3: Executive / Business Briefing (High-Level)
-* **Top Line:** Sales up 5% DOD; launch of [Campaign Name] successfully deployed.
-* **Key Metric:** 1,200 new user sign-ups today (Exceeded target by 10%).
-* **Action Item:** Exec team meeting scheduled for 2:00 PM tomorrow to review monthly targets.
+### Format 2: Executive / Project Brief
+* **📌 Status:** 🟢 On Track | 🟡 At Risk | 🔴 Delayed
+* **🚀 Key Wins:** [1–2 major accomplishments today]
+* **📊 Metrics at a Glance:** [E.g., 85% project complete / 12 tickets closed]
+* **🔮 Next Steps:** [Top priority for tomorrow]
 
-***
+---
 
-**Want me to write one tailored to your specific day?** Just reply with a quick, messy list of what you did today, and I'll format it into a clean daily summary for you!
+**Just reply with your unorganized text or key details, and I’ll format it into a clean summary for you instantly!**
