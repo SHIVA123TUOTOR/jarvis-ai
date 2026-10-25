@@ -1,23 +1,38 @@
-To give you the exact summary you need, **please paste your raw notes, bullet points, or topic details below!** 
+Here are a few options for a quick daily update summary, depending on your needs. 
 
-In the meantime, here are two quick, ready-to-use templates depending on your context:
+### Option 1: General Business / Project Update (Example)
+**Date:** [Insert Date]
 
----
-
-### Format 1: Work / Agile Daily Standup
-* **📅 Date:** [Today's Date]
-* **✅ Completed Yesterday:** [Task 1], [Task 2]
-* **🎯 Today's Focus:** [Task 1], [Task 2]
-* **🛑 Blockers / Risks:** [None / Brief description of issue]
-
----
-
-### Format 2: Executive / Project Brief
-* **📌 Status:** 🟢 On Track | 🟡 At Risk | 🔴 Delayed
-* **🚀 Key Wins:** [1–2 major accomplishments today]
-* **📊 Metrics at a Glance:** [E.g., 85% project complete / 12 tickets closed]
-* **🔮 Next Steps:** [Top priority for tomorrow]
+* **🚀 Key Wins Today:**
+  * Completed the final draft of the Q3 Marketing Strategy.
+  * Successfully resolved the login bug on the staging environment.
+* **🔄 In Progress:**
+  * Reviewing vendor proposals for the cloud migration project (60% done).
+  * Onboarding two new team members.
+* **⚠️ Blockers / Risks:**
+  * Waiting on legal approval for the Client X contract (Follow-up scheduled for tomorrow morning).
+* **🎯 Tomorrow’s Focus:**
+  * Finalize Q3 budget allocation.
+  * Hold the weekly product sync meeting.
 
 ---
 
-**Just reply with your unorganized text or key details, and I’ll format it into a clean summary for you instantly!**
+### Option 2: Quick Scrum / Standup Format (Fill-in-the-Blank)
+**Name/Role:** [Your Name] | **Date:** [Date]
+
+* **Yesterday:** [Key task completed] + [Key task completed]
+* **Today:** [Main focus for today] + [Secondary focus]
+* **Blockers:** [None / Waiting on X from Person Y]
+
+---
+
+### Option 3: Executive / High-Level TL;DR (Fill-in-the-Blank)
+**Daily Snapshot:**
+* **Status:** 🟢 On Track / 🟡 At Risk / 🔴 Delayed
+* **Top Headline:** [Single most important thing that happened today]
+* **Metric of the Day:** [e.g., Sales closed: $12k / Support tickets cleared: 45]
+* **Action Needed:** [Any decision required from leadership, or "None"]
+
+---
+
+*If you would like me to generate a specific daily update, tell me a few bullet points of what you did today, and I will format it for you!*
