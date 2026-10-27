@@ -1,37 +1,32 @@
-Here are a few quick daily update summary formats depending on your needs. 
-
-### Option 1: Standard Team/Project Standup (Most Popular)
-> **📅 Daily Briefing – [Date]**
-> 
-> **✅ Accomplished Yesterday:**
-> * Completed [Task/Project 1] and deployed updates.
-> * Finalized notes from the [Name] client meeting.
-> 
-> **🎯 Today’s Focus:**
-> * Draft proposal for [Project/Client Name].
-> * Review pull requests / feedback for [Task 2].
-> 
-> **🚧 Blockers / Risks:**
-> * Awaiting sign-off from [Name/Department] on [Specific Item].
+Here are two standard formats depending on who you are sending the update to:
 
 ---
 
-### Option 2: Executive / High-Level Summary
-> **📊 Daily Executive Summary – [Date]**
-> * **Project Status:** 🟩 On Track
-> * **Key Milestone:** [Major win or completed deliverable today].
-> * **Immediate Action Needed:** [Decision required by leadership, if any].
-> * **Next 24 Hours:** Launching [Phase/Feature/Initiative].
+### **Option 1: Daily Standup / Team Format** (Best for Slack, Teams, or Email)
+
+🗓 **Date:** [Insert Date]
+
+✅ **Completed Yesterday / Recently:**
+* [Key task 1]
+* [Key task 2]
+
+🎯 **Today’s Priorities:**
+* [Priority 1]
+* [Priority 2]
+
+🛑 **Blockers / Risks:**
+* [None / Need decision on X from @Person]
 
 ---
 
-### Option 3: Personal Productivity Log
-> **📝 Daily Check-In – [Date]**
-> * **Top 3 Wins:** 1. [Win 1] | 2. [Win 2] | 3. [Win 3]
-> * **Carried Over:** [Unfinished task to move to tomorrow]
-> * **Daily Metric:** [e.g., Hours focused, sales made, workouts completed]
+### **Option 2: Executive Summary** (Best for Management / Clients)
 
-***
+🟢 **Status:** On Track 
 
-**Want me to generate a tailored summary for you?** 
-Paste your raw notes, bullet points, or news items below, and I will format them into a clean summary!
+* **Major Win / Highlight:** [Briefly describe a key milestone or win]
+* **Current Focus:** [Main deliverable being worked on today]
+* **Needs Attention:** [Any pending approvals or decisions required]
+
+---
+
+💡 **Want a customized update?** Paste your rough notes, bullet points, or list of tasks here, and I will instantly format them into a polished summary for you!
