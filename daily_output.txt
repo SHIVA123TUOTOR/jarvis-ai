@@ -1,41 +1,29 @@
-Since you didn't provide specific details, here are **three quick daily update templates** depending on your needs. 
+To give you the exact summary you need, **please paste your raw notes, bullet points, or updates below**, and I will format them instantly.
 
-If you reply with your raw notes or tasks for the day, I can fill one of these out for you!
+In the meantime, here is a standard, easy-to-read **Daily Standup Template** you can use right away:
 
----
+***
 
-### Option 1: Standard Agile / Daily Standup (Best for Teams)
-> **📅 Daily Update – [Date]**
-> 
-> **✅ Completed Yesterday:**
-> * Finished [Task/Project A]
-> * Resolved [Issue/Bug B]
-> 
-> **🎯 Focus Today:**
-> * Work on [Task/Project C]
-> * Meeting with [Client/Team] regarding [Topic]
-> 
-> **🚧 Blockers / Needs Attention:**
-> * Waiting on approval for [Document/Budget] from [Name]
+### 📅 **Daily Update Summary: [Date]**
 
----
+**✅ What Got Done Yesterday**
+* **[Project/Task Name]:** Finished [brief result/deliverable].
+* **[Project/Task Name]:** Resolved [issue/bug] regarding [topic].
 
-### Option 2: Executive / High-Level Snapshot (Best for Management)
-> **📊 Daily Briefing – [Date]**
-> 
-> * **TL;DR:** [1-sentence overview of overall status, e.g., "Project X remains on schedule for Friday launch."]
-> * **Key Milestones Met:** [Major wins or completed deliverables]
-> * **Top Priority Today:** [The #1 main focus for the day]
-> * **Risks/Flags:** [Any critical delays or resource needs]
+**🎯 Focus for Today**
+* **Priority 1:** [Main deliverable or task to complete].
+* **Priority 2:** [Secondary task or upcoming deadline].
+* **Meetings:** [e.g., 2:00 PM Sync with Design Team].
 
----
+**🚧 Blockers / Risks**
+* **[None]** *OR* Waiting on approval for [X] from [Person/Team].
 
-### Option 3: Quick Slack/Teams Post (Casual & Brief)
-> **Morning team! Quick update for today ([Date]):**
-> * **Done:** Wrapped up [Task A] and sent over to [Client/Team].
-> * **Doing:** Spending today on [Task B] and finalizing [Task C].
-> * **Blockers:** None at the moment! 
+**💡 Quick Wins & Key Metrics**
+* [Any notable metric, launch, or quick win].
 
----
+***
 
-👉 **Want me to write your actual summary?** Just reply with a quick list of what you did yesterday, what you're doing today, and any roadblocks!
+### How would you like to proceed?
+If you want me to generate a summary for you right now, just tell me:
+1. **The topic:** (e.g., *Project Status, Tech News, Personal To-Do List, Executive Summary*)
+2. **Your raw details or text** (just drop them in a reply!).
