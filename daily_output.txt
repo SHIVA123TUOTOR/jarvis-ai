@@ -1,29 +1,34 @@
-To give you the exact summary you need, **please paste your raw notes, bullet points, or updates below**, and I will format them instantly.
+Since I don't have your specific data or industry context yet, here are **three standard formats** depending on what you need. 
 
-In the meantime, here is a standard, easy-to-read **Daily Standup Template** you can use right away:
+Simply drop your notes in a reply, and I will format it instantly!
 
-***
+---
 
-### 📅 **Daily Update Summary: [Date]**
+### Format 1: Quick Team/Agile Standup (Most Popular)
+* **Date:** [Today's Date]
+* **✅ Completed Yesterday:** [Task 1, Task 2]
+* **🎯 Focus Today:** [Priority 1, Priority 2]
+* **🚧 Blockers:** [Any delays or help needed / None]
 
-**✅ What Got Done Yesterday**
-* **[Project/Task Name]:** Finished [brief result/deliverable].
-* **[Project/Task Name]:** Resolved [issue/bug] regarding [topic].
+---
 
-**🎯 Focus for Today**
-* **Priority 1:** [Main deliverable or task to complete].
-* **Priority 2:** [Secondary task or upcoming deadline].
-* **Meetings:** [e.g., 2:00 PM Sync with Design Team].
+### Format 2: Executive Summary (For Managers/Clients)
+* **Key Wins:** [Major accomplishment or milestone reached]
+* **Current Status:** [On Track / At Risk / Delayed]
+* **Top 3 Priorities:** 
+  1. [Priority 1]
+  2. [Priority 2]
+  3. [Priority 3]
+* **Immediate Needs/Decisions:** [Anything requiring approval or feedback]
 
-**🚧 Blockers / Risks**
-* **[None]** *OR* Waiting on approval for [X] from [Person/Team].
+---
 
-**💡 Quick Wins & Key Metrics**
-* [Any notable metric, launch, or quick win].
+### Format 3: Personal Productivity Log
+* **Top Goal for Today:** [The #1 thing that must get done]
+* **Schedule Highlights:** [Key meetings or time blocks]
+* **Quick Reminder:** [Important follow-up or note]
 
-***
+---
 
-### How would you like to proceed?
-If you want me to generate a summary for you right now, just tell me:
-1. **The topic:** (e.g., *Project Status, Tech News, Personal To-Do List, Executive Summary*)
-2. **Your raw details or text** (just drop them in a reply!).
+**Would you like me to populate one of these for you?** 
+*Just reply with a few rough bullet points (or tell me if you're looking for a summary of actual world/tech news today), and I'll generate it!*
