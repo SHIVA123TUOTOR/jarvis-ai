@@ -1,34 +1,30 @@
-Since I don't have your specific data or industry context yet, here are **three standard formats** depending on what you need. 
+To give you the exact summary you need, **please paste your notes, emails, or topic of choice below.** 
 
-Simply drop your notes in a reply, and I will format it instantly!
-
----
-
-### Format 1: Quick Team/Agile Standup (Most Popular)
-* **Date:** [Today's Date]
-* **✅ Completed Yesterday:** [Task 1, Task 2]
-* **🎯 Focus Today:** [Priority 1, Priority 2]
-* **🚧 Blockers:** [Any delays or help needed / None]
+In the meantime, here is a clean, standard template you can use right away:
 
 ---
 
-### Format 2: Executive Summary (For Managers/Clients)
-* **Key Wins:** [Major accomplishment or milestone reached]
-* **Current Status:** [On Track / At Risk / Delayed]
-* **Top 3 Priorities:** 
-  1. [Priority 1]
-  2. [Priority 2]
-  3. [Priority 3]
-* **Immediate Needs/Decisions:** [Anything requiring approval or feedback]
+### 📋 Daily Update: [Insert Date]
+
+**✅ Key Accomplishments Today**
+* **[Project/Task A]:** Completed [detail/milestone].
+* **[Project/Task B]:** Resolved [issue/bug].
+
+**🔄 In Progress & Next Steps**
+* **[Priority 1]:** Currently [status] – expected completion by [time/date].
+* **[Priority 2]:** Starting [new task/phase].
+
+**🚨 Blockers / Needs Attention**
+* *[None / Need approval on X from Team Y]*
+
+**📊 Quick Metric / Highlight**
+* [Insert a key number, win, or takeaway from today]
 
 ---
 
-### Format 3: Personal Productivity Log
-* **Top Goal for Today:** [The #1 thing that must get done]
-* **Schedule Highlights:** [Key meetings or time blocks]
-* **Quick Reminder:** [Important follow-up or note]
-
----
-
-**Would you like me to populate one of these for you?** 
-*Just reply with a few rough bullet points (or tell me if you're looking for a summary of actual world/tech news today), and I'll generate it!*
+### Need something specific? 
+Tell me what you're looking for, such as:
+1. **Work/Project Standup** (Paste your raw bullet points)
+2. **Daily World/Tech News Briefing** (Tell me the topics you care about)
+3. **Market/Financial Snapshot** 
+4. **Personal Productivity Summary**
