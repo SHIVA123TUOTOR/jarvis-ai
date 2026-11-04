@@ -1,30 +1,37 @@
-To give you the exact summary you need, **please paste your notes, emails, or topic of choice below.** 
+Here are a few ready-to-use formats for a quick daily update, depending on what you need it for:
 
-In the meantime, here is a clean, standard template you can use right away:
+### Option 1: Standard Project / Team Update (Best for Slack/Teams)
 
----
+📅 **Daily Update – [Date]**
 
-### 📋 Daily Update: [Insert Date]
+✅ **Completed Today:**
+* Completed [Task 1, e.g., draft of the Q3 marketing plan].
+* Resolved issue with [Task 2, e.g., login bug in the staging environment].
+* Held alignment call with [Person/Team].
 
-**✅ Key Accomplishments Today**
-* **[Project/Task A]:** Completed [detail/milestone].
-* **[Project/Task B]:** Resolved [issue/bug].
+🔄 **In Progress / Focus for Tomorrow:**
+* Drafting [Task 3, e.g., project timeline].
+* Reviewing feedback on [Task 4].
 
-**🔄 In Progress & Next Steps**
-* **[Priority 1]:** Currently [status] – expected completion by [time/date].
-* **[Priority 2]:** Starting [new task/phase].
-
-**🚨 Blockers / Needs Attention**
-* *[None / Need approval on X from Team Y]*
-
-**📊 Quick Metric / Highlight**
-* [Insert a key number, win, or takeaway from today]
+🚧 **Blockers / Needs Attention:**
+* *None* OR *[e.g., Awaiting sign-off from Design on the new assets].*
 
 ---
 
-### Need something specific? 
-Tell me what you're looking for, such as:
-1. **Work/Project Standup** (Paste your raw bullet points)
-2. **Daily World/Tech News Briefing** (Tell me the topics you care about)
-3. **Market/Financial Snapshot** 
-4. **Personal Productivity Summary**
+### Option 2: Executive 3-Bullet Brief (Ultra-Concise)
+
+* **Key Win:** [Main accomplishment of the day, e.g., Client approved the project proposal].
+* **Current Focus:** [Top priority for tomorrow, e.g., Finalizing budget allocations].
+* **Blocker/Risk:** [Any help needed, e.g., Waiting on IT for software permissions].
+
+---
+
+### Option 3: Personal Productivity Log
+
+* **Top 3 Wins:** 1) ________  2) ________  3) ________
+* **Unfinished Business:** ________
+* **Tomorrow's Priority #1:** ________
+
+***
+
+**Need something specific?** If you're looking for a summary of **today's actual world/tech news** or want me to format a specific set of notes you have, just let me know!
