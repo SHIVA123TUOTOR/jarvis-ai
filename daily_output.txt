@@ -1,39 +1,28 @@
-Since you didn’t specify a topic, here is a **clean, modern daily update template** followed by a **quick example** you can use right away.
+To give you the exact daily update you need, please share your raw notes, tasks, or the topic you'd like summarized. 
+
+In the meantime, here are a few standard formats you can use or ask me to fill out for you:
+
+### 1. Classic Team/Project Update (Agile/Standup)
+* **Done Yesterday:** [Tasks completed]
+* **Today's Focus:** [Top priorities]
+* **Blockers/Risks:** [Any issues needing resolution]
 
 ---
 
-### 📋 Standard Daily Update Template
-
-**Date:** [Insert Date]  
-**Overall Status:** 🟢 On Track | 🟡 At Risk | 🔴 Delayed
-
-* **✅ Yesterday’s Accomplishments:**
-  * Completed [Task 1]
-  * Finalized [Task 2]
-* **🎯 Today’s Priorities:**
-  * Focus on [Main Task/Goal]
-  * Review [Document/Code/Deliverable]
-* **🚧 Blockers / Risks:**
-  * [Needs decision from X / Waiting on Y / None]
+### 2. Executive / Manager Summary
+* **Key Highlights:** [1–2 major wins or milestones reached]
+* **Current Project Status:** 🟢 On Track / 🟡 At Risk / 🔴 Delayed
+* **Immediate Next Steps:** [What happens next]
 
 ---
 
-### 💡 Example: Project/Team Update
-
-**Date:** October 24, 2023  
-**Status:** 🟢 On Track
-
-* **✅ Accomplishments:**
-  * Resolved the mobile login bug reported by QA.
-  * Approved final copy for the Q4 marketing campaign.
-* **🎯 Today’s Focus:**
-  * Push the v2.1 update to the staging environment.
-  * Hold client onboarding call at 2:00 PM.
-* **🚧 Blockers:**
-  * Waiting on legal approval for the updated Terms of Service.
-
----
+### 3. Personal Productivity Daily Brief
+* **Top 3 Priorities:** [Task 1, Task 2, Task 3]
+* **Schedule/Meetings:** [Key events today]
+* **Notes/Reminders:** [Important follow-ups]
 
 ***
 
-**Need this tailored?** Reply with your raw notes, project details, or industry (e.g., *Software, Sales, Personal, Executive Brief*), and I’ll generate a specific one for you!
+**How would you like to proceed?** 
+1. Paste your notes/bullets below and I will format them.
+2. Tell me a topic (e.g., *tech news, market update, project status*) and I'll generate a summary for you.
