@@ -1,39 +1,33 @@
-Since you didn't specify the context, here are a few quick daily update formats tailored to different needs. 
+To generate an accurate daily update for you, please **paste your raw notes, emails, or bullet points below**. 
+
+In the meantime, here are two quick, ready-to-use templates depending on who you are updating:
 
 ---
 
-### Option 1: Work / Project Standup (Agile Format)
-* **Yesterday’s Accomplishments:** 
-  * Completed final review of the Q3 project proposal.
-  * Resolved API integration bug (#402).
-* **Today’s Focus:** 
-  * Launch beta testing for the new user dashboard.
-  * Sync with the marketing team on launch collateral.
-* **Blockers:** 
-  * Awaiting design sign-off from the UX lead.
+### Option 1: Quick Standup / Team Update (Concise)
+> **🗓️ Daily Update — [Date]**
+> 
+> * **✅ Completed Today:**
+>   * [Task 1 / Key achievement]
+>   * [Task 2]
+> * **⏳ In Progress / Focus for Tomorrow:**
+>   * [Main priority 1]
+>   * [Main priority 2]
+> * **🚨 Blockers / Needs:** 
+>   * [None / Waiting on X from Y]
 
 ---
 
-### Option 2: Executive / Business Snapshot
-* **Key Wins:** Signed 2 new client contracts; total daily ARR +$12k.
-* **Core Metrics:** Website traffic up 5% YoY; CSAT score at 94%.
-* **Top Priority:** Resolving the supply chain delay for product batch B.
-* **Action Required:** Final approval needed for the Q4 hiring budget.
+### Option 2: Executive / Manager Brief (High-Level)
+> **📊 Daily Briefing — [Date]**
+> 
+> * **Top Line Summary:** [1-sentence summary of major progress or focus today]
+> * **Key Accomplishments:**
+>   * **[Project A]:** [Milestone reached or progress made]
+>   * **[Project B]:** [Milestone reached or progress made]
+> * **Next Steps:** [1-2 critical items for tomorrow/this week]
+> * **Risks/Items to Note:** [Any potential delays, budget items, or decisions needed]
 
 ---
 
-### Option 3: Personal Productivity Recap
-* **Top 3 Achievements:** Finished draft of the quarterly report, hit 10k steps, cleared inbox to zero.
-* **Tomorrow’s Main Goal:** Focus block (9 AM - 11 AM) for deep work on the campaign strategy.
-* **Note to Self:** Remember to follow up with Sarah regarding the Friday presentation.
-
----
-
-### Option 4: Mock Daily News & Market Digest
-* **Markets:** S&P 500 up (+0.4%), Tech leads modest gains driven by Q2 earnings beats.
-* **Tech Headline:** Major advancements announced in open-source AI model efficiency.
-* **Economy:** Central bank signals steady interest rates for the upcoming quarter.
-
----
-
-**Would you like me to tailor a daily update for a specific topic (e.g., world news, finance, tech, or your own specific project/industry)?**
+👉 **Want me to fill one out for you?** Just reply with a quick list of what you did today, and I’ll format it into a clean summary!
