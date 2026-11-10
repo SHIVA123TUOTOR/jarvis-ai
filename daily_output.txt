@@ -1,33 +1,48 @@
-To generate an accurate daily update for you, please **paste your raw notes, emails, or bullet points below**. 
+Since you didn't provide specific notes or data, here are a few ready-to-use formats. 
 
-In the meantime, here are two quick, ready-to-use templates depending on who you are updating:
+If you want me to format your actual updates, **just reply with your raw notes or bullet points**, and I'll generate the summary for you!
 
 ---
 
-### Option 1: Quick Standup / Team Update (Concise)
-> **🗓️ Daily Update — [Date]**
+### Option 1: Classic Daily Standup (PPP Format)
+> **📅 Daily Update – [Date]**
 > 
-> * **✅ Completed Today:**
->   * [Task 1 / Key achievement]
->   * [Task 2]
-> * **⏳ In Progress / Focus for Tomorrow:**
->   * [Main priority 1]
->   * [Main priority 2]
-> * **🚨 Blockers / Needs:** 
->   * [None / Waiting on X from Y]
-
----
-
-### Option 2: Executive / Manager Brief (High-Level)
-> **📊 Daily Briefing — [Date]**
+> **✅ Completed Yesterday:**
+> * [Task 1 completed]
+> * [Task 2 completed]
 > 
-> * **Top Line Summary:** [1-sentence summary of major progress or focus today]
-> * **Key Accomplishments:**
->   * **[Project A]:** [Milestone reached or progress made]
->   * **[Project B]:** [Milestone reached or progress made]
-> * **Next Steps:** [1-2 critical items for tomorrow/this week]
-> * **Risks/Items to Note:** [Any potential delays, budget items, or decisions needed]
+> **🎯 Today's Focus:**
+> * [Main priority 1]
+> * [Main priority 2]
+> 
+> **🚧 Blockers / Risks:**
+> * [None / Describe any delays or help needed]
 
 ---
 
-👉 **Want me to fill one out for you?** Just reply with a quick list of what you did today, and I’ll format it into a clean summary!
+### Option 2: Executive / High-Level (3-Bullet Brief)
+> **📅 Daily Snapshot – [Date]**
+> 
+> * 🚀 **Top Highlight:** [Key win or major milestone reached]
+> * 🎯 **Core Priority:** [The #1 goal being worked on today]
+> * ⚠️ **Needs Attention:** [Any critical decision, risk, or support required]
+
+---
+
+### Option 3: Filled Example (How it looks in action)
+> **📅 Daily Update – Oct 24**
+> 
+> **✅ Completed Yesterday:**
+> * Finalized the Q4 marketing budget proposal.
+> * Shipped the bug fix for the user login flow.
+> 
+> **🎯 Today's Focus:**
+> * Lead the onboarding call with the new client at 2 PM.
+> * Draft content for next week's product newsletter.
+> 
+> **🚧 Blockers:**
+> * Waiting on design assets from Alex for the landing page launch.
+
+***
+
+**Want me to write yours?** Just reply with a few quick bullet points of what you did and what's next!
