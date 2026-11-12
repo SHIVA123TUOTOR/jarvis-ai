@@ -1,48 +1,46 @@
-Since you didn't provide specific notes or data, here are a few ready-to-use formats. 
+Here are a few quick daily update formats depending on your needs. 
 
-If you want me to format your actual updates, **just reply with your raw notes or bullet points**, and I'll generate the summary for you!
-
----
-
-### Option 1: Classic Daily Standup (PPP Format)
-> **📅 Daily Update – [Date]**
-> 
-> **✅ Completed Yesterday:**
-> * [Task 1 completed]
-> * [Task 2 completed]
-> 
-> **🎯 Today's Focus:**
-> * [Main priority 1]
-> * [Main priority 2]
-> 
-> **🚧 Blockers / Risks:**
-> * [None / Describe any delays or help needed]
+If you want me to write a custom update for you, **reply with a few rough notes or bullet points about your day**, and I will format it instantly!
 
 ---
 
-### Option 2: Executive / High-Level (3-Bullet Brief)
-> **📅 Daily Snapshot – [Date]**
-> 
-> * 🚀 **Top Highlight:** [Key win or major milestone reached]
-> * 🎯 **Core Priority:** [The #1 goal being worked on today]
-> * ⚠️ **Needs Attention:** [Any critical decision, risk, or support required]
+### Option 1: Standard Team / Project Update (Agile / Standup Style)
+
+📅 **Daily Update — [Date]**
+
+* **✅ Completed Today:**
+  * Finished [Task A, e.g., drafting the quarterly report draft].
+  * Resolved [Issue B, e.g., client feedback on the new design mockups].
+  * Held sync with [Team/Person] regarding [Topic].
+
+* **⏳ In Progress / Focus for Tomorrow:**
+  * Finalize [Task C, e.g., code review for Sprint 4].
+  * Begin work on [Task D, e.g., onboarding documentation].
+
+* **🚧 Blockers / Risks:**
+  * *None at the moment* OR *[Waiting on approval from X team].*
 
 ---
 
-### Option 3: Filled Example (How it looks in action)
-> **📅 Daily Update – Oct 24**
-> 
-> **✅ Completed Yesterday:**
-> * Finalized the Q4 marketing budget proposal.
-> * Shipped the bug fix for the user login flow.
-> 
-> **🎯 Today's Focus:**
-> * Lead the onboarding call with the new client at 2 PM.
-> * Draft content for next week's product newsletter.
-> 
-> **🚧 Blockers:**
-> * Waiting on design assets from Alex for the landing page launch.
+### Option 2: Executive / High-Level Summary (Short & Crisp)
 
-***
+📊 **Daily Executive Briefing — [Date]**
 
-**Want me to write yours?** Just reply with a few quick bullet points of what you did and what's next!
+* **Top Headline:** [Main achievement or milestone reached today].
+* **Key Metrics:** [e.g., Sales +5%, 3 new client calls booked, 100% server uptime].
+* **Priority Focus Tomorrow:** [Single biggest goal for the next 24 hours].
+* **Action Required:** [Anything needing immediate decision/approval from management].
+
+---
+
+### Option 3: Personal Productivity Snapshot
+
+📝 **Daily Log — [Date]**
+
+* **Wins:** Completed top 3 priority tasks.
+* **Open Loops:** Need to follow up with [Name] tomorrow morning.
+* **Energy/Focus Rating:** 8/10.
+
+---
+
+👉 **Want me to fill one out for you?** Just drop a raw list of what you did today, and I'll turn it into a clean update!
