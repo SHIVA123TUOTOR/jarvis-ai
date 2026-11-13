@@ -1,46 +1,35 @@
-Here are a few quick daily update formats depending on your needs. 
+To give you the exact summary you need, **what topic would you like the update on?** 
 
-If you want me to write a custom update for you, **reply with a few rough notes or bullet points about your day**, and I will format it instantly!
-
----
-
-### Option 1: Standard Team / Project Update (Agile / Standup Style)
-
-📅 **Daily Update — [Date]**
-
-* **✅ Completed Today:**
-  * Finished [Task A, e.g., drafting the quarterly report draft].
-  * Resolved [Issue B, e.g., client feedback on the new design mockups].
-  * Held sync with [Team/Person] regarding [Topic].
-
-* **⏳ In Progress / Focus for Tomorrow:**
-  * Finalize [Task C, e.g., code review for Sprint 4].
-  * Begin work on [Task D, e.g., onboarding documentation].
-
-* **🚧 Blockers / Risks:**
-  * *None at the moment* OR *[Waiting on approval from X team].*
+Here are a few common formats I can generate for you right now:
 
 ---
 
-### Option 2: Executive / High-Level Summary (Short & Crisp)
-
-📊 **Daily Executive Briefing — [Date]**
-
-* **Top Headline:** [Main achievement or milestone reached today].
-* **Key Metrics:** [e.g., Sales +5%, 3 new client calls booked, 100% server uptime].
-* **Priority Focus Tomorrow:** [Single biggest goal for the next 24 hours].
-* **Action Required:** [Anything needing immediate decision/approval from management].
+### Option 1: Work / Project Status (Daily Standup)
+* **Yesterday’s Key Wins:** [Task A completed, Task B drafted]
+* **Today’s Focus:** [Priority 1, Priority 2]
+* **Blockers / Risks:** [None / Waiting on approval for X]
 
 ---
 
-### Option 3: Personal Productivity Snapshot
-
-📝 **Daily Log — [Date]**
-
-* **Wins:** Completed top 3 priority tasks.
-* **Open Loops:** Need to follow up with [Name] tomorrow morning.
-* **Energy/Focus Rating:** 8/10.
+### Option 2: World & Tech News Digest
+* **Tech & Business:** Major headlines in tech, markets, and industry trends today.
+* **Global News:** Key political and international developments.
+* **Trending:** What's making waves online right now.
 
 ---
 
-👉 **Want me to fill one out for you?** Just drop a raw list of what you did today, and I'll turn it into a clean update!
+### Option 3: Financial / Market Snapshot
+* **Stock Market:** S&P 500, Nasdaq, and Dow updates.
+* **Crypto:** Bitcoin/Ethereum quick check.
+* **Economic Watch:** Key inflation, interest rate, or commodity updates.
+
+---
+
+### Option 4: Personal Daily Planner
+* **Top 3 Priorities:** [Goal 1, Goal 2, Goal 3]
+* **Schedule Highlights:** [Key meetings or appointments]
+* **Daily Reminder/Quote:** A quick boost for productivity.
+
+---
+
+**Just reply with the option you prefer (or paste your raw notes/text), and I’ll generate a clean summary instantly!**
