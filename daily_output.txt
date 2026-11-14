@@ -1,35 +1,38 @@
-To give you the exact summary you need, **what topic would you like the update on?** 
+Since you didn't specify the context (e.g., business, personal, tech project, or world news), here are a few quick formats you can use. 
 
-Here are a few common formats I can generate for you right now:
-
----
-
-### Option 1: Work / Project Status (Daily Standup)
-* **Yesterday’s Key Wins:** [Task A completed, Task B drafted]
-* **Today’s Focus:** [Priority 1, Priority 2]
-* **Blockers / Risks:** [None / Waiting on approval for X]
+Choose the one that fits your needs, or **paste your raw notes below and I will summarize them for you!**
 
 ---
 
-### Option 2: World & Tech News Digest
-* **Tech & Business:** Major headlines in tech, markets, and industry trends today.
-* **Global News:** Key political and international developments.
-* **Trending:** What's making waves online right now.
+### Option 1: Agile / Daily Standup (For Work & Projects)
+* **📅 Date:** [Today's Date]
+* **✅ Completed Yesterday:** 
+  * Finished [Task A]
+  * Reviewed [Task B]
+* **🎯 Today's Focus:** 
+  * Launching [Task C]
+  * Meeting with [Team/Client] regarding [Topic]
+* **🚧 Blockers/Risks:** 
+  * Waiting on approval for [Item X]
 
 ---
 
-### Option 3: Financial / Market Snapshot
-* **Stock Market:** S&P 500, Nasdaq, and Dow updates.
-* **Crypto:** Bitcoin/Ethereum quick check.
-* **Economic Watch:** Key inflation, interest rate, or commodity updates.
+### Option 2: Executive Summary (For Managers & Leadership)
+* **💡 Today's Top Highlight:** Successfully resolved [Key Issue/Milestone].
+* **📊 Quick Metrics:** Revenue/Progress is currently at **[X%]** toward the weekly goal.
+* **⚠️ Priority Focus:** [Name of primary project] is on track for delivery by [Date].
+* **❓ Decisions Needed:** Need sign-off on [Budget/Policy/Strategy].
 
 ---
 
-### Option 4: Personal Daily Planner
-* **Top 3 Priorities:** [Goal 1, Goal 2, Goal 3]
-* **Schedule Highlights:** [Key meetings or appointments]
-* **Daily Reminder/Quote:** A quick boost for productivity.
+### Option 3: Quick Personal / Productivity Check
+* **Top 3 Priorities:** 1. [Task 1] | 2. [Task 2] | 3. [Task 3]
+* **Wins:** Handled [Unexpected issue or accomplishment].
+* **Habit Tracker:** Exercise 🟢 | Reading 🟢 | Meditate 🔴
 
 ---
 
-**Just reply with the option you prefer (or paste your raw notes/text), and I’ll generate a clean summary instantly!**
+***
+
+**Want me to generate a real one for you?** 
+Reply with a few messy bullet points about your day, news items, or project notes, and I will format it into a clean, professional summary instantly!
