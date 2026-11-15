@@ -1,38 +1,49 @@
-Since you didn't specify the context (e.g., business, personal, tech project, or world news), here are a few quick formats you can use. 
+Here are a few quick formats you can use depending on your needs. 
 
-Choose the one that fits your needs, or **paste your raw notes below and I will summarize them for you!**
-
----
-
-### Option 1: Agile / Daily Standup (For Work & Projects)
-* **📅 Date:** [Today's Date]
-* **✅ Completed Yesterday:** 
-  * Finished [Task A]
-  * Reviewed [Task B]
-* **🎯 Today's Focus:** 
-  * Launching [Task C]
-  * Meeting with [Team/Client] regarding [Topic]
-* **🚧 Blockers/Risks:** 
-  * Waiting on approval for [Item X]
+If you want me to summarize specific information for you today, **just reply with your raw notes, emails, or text**, and I will format it immediately!
 
 ---
 
-### Option 2: Executive Summary (For Managers & Leadership)
-* **💡 Today's Top Highlight:** Successfully resolved [Key Issue/Milestone].
-* **📊 Quick Metrics:** Revenue/Progress is currently at **[X%]** toward the weekly goal.
-* **⚠️ Priority Focus:** [Name of primary project] is on track for delivery by [Date].
-* **❓ Decisions Needed:** Need sign-off on [Budget/Policy/Strategy].
+### Option 1: Work / Project Standup Update (Template)
+📅 **Date:** [Today's Date]  
+👤 **Owner:** [Your Name / Team]
+
+* **🚀 Accomplished Today:**
+  * Completed [Task 1 / Milestone].
+  * Finalized [Task 2 / Document].
+* **🔄 In Progress:**
+  * Working on [Task 3] *(Target completion: Tomorrow)*.
+  * Reviewing [Task 4].
+* **🛑 Blockers / Risks:**
+  * Waiting on approval for [Item] from [Department/Person].
+* **🎯 Tomorrow’s Focus:**
+  * Launch [Project/Feature].
+  * Hold meeting with [Stakeholder].
 
 ---
 
-### Option 3: Quick Personal / Productivity Check
-* **Top 3 Priorities:** 1. [Task 1] | 2. [Task 2] | 3. [Task 3]
-* **Wins:** Handled [Unexpected issue or accomplishment].
-* **Habit Tracker:** Exercise 🟢 | Reading 🟢 | Meditate 🔴
+### Option 2: Executive Quick Digest (Example)
+**Briefing for October 24, 2023**
+
+* **Status:** 🟢 On Track
+* **Top Metric:** Q3 Revenue currently up **+4.2%** vs. target.
+* **Key Update:** The new client onboarding workflow went live today with zero downtime. 
+* **Action Required:** Team leads need to submit final budget requests by 5:00 PM today.
+
+---
+
+### Option 3: Personal Productivity Summary (Template)
+* **Top 3 Wins:** 
+  1. [Win 1]
+  2. [Win 2]
+  3. [Win 3]
+* **Unfinished Business:** [Item to roll over to tomorrow]
+* **Daily Metric:** Exercise ❌ | Reading ✅ | Deep Work: 3 hrs ✅
 
 ---
 
 ***
 
-**Want me to generate a real one for you?** 
-Reply with a few messy bullet points about your day, news items, or project notes, and I will format it into a clean, professional summary instantly!
+**How would you like to proceed?**
+1. Paste your notes/raw data here, and I'll generate a clean summary.
+2. Tell me a specific industry/topic, and I'll give you a daily news brief.
