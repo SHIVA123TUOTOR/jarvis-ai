@@ -1,42 +1,30 @@
-Here is a clean, easy-to-read daily update summary template, along with an example of how to use it.
+To give you the most accurate update, **what context would you like this summary for?** 
+
+Here are the most common formats—just let me know which one you need (or paste your raw notes/emails, and I’ll condense them):
 
 ---
 
-### 📅 **Daily Update – [Insert Date]**
-
-#### ✅ **Completed Today**
-* **Task/Project 1:** [Brief description of completed work]
-* **Task/Project 2:** [Key milestone reached or issue resolved]
-* **Meetings/Communication:** [Summary of key meetings or client align-ups]
-
-#### 🔄 **In Progress & Focus for Tomorrow**
-* **Task 1:** [What you are currently working on and plan to finish next]
-* **Task 2:** [Next priority item]
-
-#### 🚨 **Blockers / Needs Attention**
-* [Any risks, missing information, or approvals needed from team/management. Write "None" if clear.]
-
-#### 📊 **Key Metrics / Quick Note (Optional)**
-* [e.g., Sales closed, tickets resolved, budget status, or general team highlight]
+### Option 1: Work / Standup Update (Template)
+* **Completed Yesterday:** Finished [Task A], reviewed [Project B].
+* **Today's Focus:** Finalize [Task C], attend [Meeting D].
+* **Blockers:** Awaiting approval from [Person/Department].
 
 ---
 
-### **Example in Action:**
-
-📅 **Daily Update – October 24, 2023**
-
-✅ **Completed Today**
-* Finalized the Q4 marketing plan draft and sent it for review.
-* Resolved bug #402 regarding user login timeouts.
-* Held onboarding call with new client (Acme Corp).
-
-🔄 **In Progress & Focus for Tomorrow**
-* Draft the landing page copy for the new product launch.
-* Review tomorrow’s candidate interview schedules.
-
-🚨 **Blockers / Needs Attention**
-* Awaiting design team assets for the homepage banner (Needed by 2 PM tomorrow).
+### Option 2: Project Management / Team Overview
+* **Status:** 🟢 On Track / 🟡 At Risk
+* **Key Wins:** [Recent milestone achieved]
+* **Top Priority Today:** [Critical task]
+* **Risks & Issues:** [Any potential delays]
 
 ---
 
-*If you were looking for a summary of **today's global news, tech trends, or financial markets** instead, let me know which topic you'd like covered!*
+### Option 3: World / Tech / Market News Briefing
+If you are looking for actual real-time news, tell me which topics interest you:
+* 🤖 **Tech & AI News**
+* 📈 **Finance & Stock Markets**
+* 🌍 **Major World News**
+
+---
+
+**How would you like to proceed?** Drop in your details, or pick a category above!
