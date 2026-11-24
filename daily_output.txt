@@ -1,30 +1,43 @@
-To give you the most accurate update, **what context would you like this summary for?** 
+Here are a few formats for a quick daily update, depending on your needs. 
 
-Here are the most common formats—just let me know which one you need (or paste your raw notes/emails, and I’ll condense them):
+### Option 1: Classic Work / Project Update (Standup Style)
+* **Date:** [Insert Date]
+* **Project/Team:** [Insert Name]
 
----
+* **✅ Done Today:**
+  * Completed [Task 1, e.g., draft of the Q3 proposal]
+  * Resolved issue with [Task 2, e.g., user login bug]
+  * Held sync with [Person/Team] regarding [Topic]
 
-### Option 1: Work / Standup Update (Template)
-* **Completed Yesterday:** Finished [Task A], reviewed [Project B].
-* **Today's Focus:** Finalize [Task C], attend [Meeting D].
-* **Blockers:** Awaiting approval from [Person/Department].
+* **🔄 In Progress:**
+  * Finalizing [Task 3, e.g., design mockups]
+  * Reviewing feedback on [Task 4]
 
----
+* **⚠️ Blockers / Risks:**
+  * Waiting on approval from [Name/Department] for [Item].
 
-### Option 2: Project Management / Team Overview
-* **Status:** 🟢 On Track / 🟡 At Risk
-* **Key Wins:** [Recent milestone achieved]
-* **Top Priority Today:** [Critical task]
-* **Risks & Issues:** [Any potential delays]
-
----
-
-### Option 3: World / Tech / Market News Briefing
-If you are looking for actual real-time news, tell me which topics interest you:
-* 🤖 **Tech & AI News**
-* 📈 **Finance & Stock Markets**
-* 🌍 **Major World News**
+* **🎯 Focus for Tomorrow:**
+  * Launch [Feature/Document]
+  * Prepare for [Upcoming Meeting]
 
 ---
 
-**How would you like to proceed?** Drop in your details, or pick a category above!
+### Option 2: Executive Summary (High-Level)
+* **Status:** 🟢 On Track | 🟡 At Risk | 🔴 Delayed
+* **Top Highlight:** Successfully launched the new dashboard feature; initial user feedback is positive.
+* **Key Metric:** Sign-ups increased by **12%** today.
+* **Immediate Priority:** Finalizing the budget allocation before Friday's deadline.
+
+---
+
+### Option 3: Personal Productivity Log
+* **🎯 Top 3 Wins:**
+  1. Finished the monthly report.
+  2. Cleared out inbox (Inbox Zero).
+  3. 30-minute workout completed.
+* **💡 Learning / Insight:** Remember to block off focus time before 10 AM.
+* **📌 Tomorrow’s Top Priority:** Draft the client presentation.
+
+***
+
+**Would you like me to generate a summary based on specific notes, tasks, or news you have?** Just paste your raw text or bullet points here!
