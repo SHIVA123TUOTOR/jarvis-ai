@@ -1,43 +1,23 @@
-Here are a few formats for a quick daily update, depending on your needs. 
+To give you the most relevant summary, **what topic would you like an update on?** 
 
-### Option 1: Classic Work / Project Update (Standup Style)
-* **Date:** [Insert Date]
-* **Project/Team:** [Insert Name]
-
-* **✅ Done Today:**
-  * Completed [Task 1, e.g., draft of the Q3 proposal]
-  * Resolved issue with [Task 2, e.g., user login bug]
-  * Held sync with [Person/Team] regarding [Topic]
-
-* **🔄 In Progress:**
-  * Finalizing [Task 3, e.g., design mockups]
-  * Reviewing feedback on [Task 4]
-
-* **⚠️ Blockers / Risks:**
-  * Waiting on approval from [Name/Department] for [Item].
-
-* **🎯 Focus for Tomorrow:**
-  * Launch [Feature/Document]
-  * Prepare for [Upcoming Meeting]
-
----
-
-### Option 2: Executive Summary (High-Level)
-* **Status:** 🟢 On Track | 🟡 At Risk | 🔴 Delayed
-* **Top Highlight:** Successfully launched the new dashboard feature; initial user feedback is positive.
-* **Key Metric:** Sign-ups increased by **12%** today.
-* **Immediate Priority:** Finalizing the budget allocation before Friday's deadline.
-
----
-
-### Option 3: Personal Productivity Log
-* **🎯 Top 3 Wins:**
-  1. Finished the monthly report.
-  2. Cleared out inbox (Inbox Zero).
-  3. 30-minute workout completed.
-* **💡 Learning / Insight:** Remember to block off focus time before 10 AM.
-* **📌 Tomorrow’s Top Priority:** Draft the client presentation.
+(For example: *World/Tech News, Financial Markets, a summary of your personal tasks, or a Project Status update for work?*)
 
 ***
 
-**Would you like me to generate a summary based on specific notes, tasks, or news you have?** Just paste your raw text or bullet points here!
+If you have text or notes you want me to summarize, just paste them below! 
+
+In the meantime, here is a quick standard template you can use or ask me to fill out for you:
+
+### 📅 **Daily Status Update**
+* **🚀 Key Wins / Completed Today:** 
+  * 
+* **⏳ In Progress:** 
+  * 
+* **🚧 Blockers / Dependencies:** 
+  * 
+* **🎯 Top Priorities for Tomorrow:** 
+  * 
+
+***
+
+*Reply with your specific notes or topic, and I will generate a fresh update for you right away!*
