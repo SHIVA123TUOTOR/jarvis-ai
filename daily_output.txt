@@ -1,23 +1,51 @@
-To give you the most relevant summary, **what topic would you like an update on?** 
+Here are a few quick daily update options depending on what you need. 
 
-(For example: *World/Tech News, Financial Markets, a summary of your personal tasks, or a Project Status update for work?*)
+### Option 1: Quick Project / Team Standup (Standard Format)
 
-***
+📅 **Daily Status Update — [Date]**
 
-If you have text or notes you want me to summarize, just paste them below! 
+* **✅ Yesterday’s Accomplishments:**
+  * Completed [Task 1, e.g., draft of the Q3 marketing plan].
+  * Resolved [Issue/Bug, e.g., payment gateway bug #402].
+  * Held sync with [Team/Client] regarding [Topic].
 
-In the meantime, here is a quick standard template you can use or ask me to fill out for you:
+* **🎯 Today’s Priorities:**
+  * Finalize [Deliverable 1, e.g., client proposal presentation].
+  * Begin work on [Task 2, e.g., database migration phase 1].
+  * Review feedback on [Document/Project].
 
-### 📅 **Daily Status Update**
-* **🚀 Key Wins / Completed Today:** 
-  * 
-* **⏳ In Progress:** 
-  * 
-* **🚧 Blockers / Dependencies:** 
-  * 
-* **🎯 Top Priorities for Tomorrow:** 
-  * 
+* **🚨 Blockers / Risks:**
+  * *Blocker:* Waiting on legal sign-off for [Contract/Document].
+  * *Risk:* Server downtime scheduled for 3 PM may delay testing.
 
-***
+---
 
-*Reply with your specific notes or topic, and I will generate a fresh update for you right away!*
+### Option 2: Executive / Management Summary (High-Level)
+
+📊 **Daily Executive Briefing — [Date]**
+
+* **Top Headline:** [Main highlight of the day, e.g., Product launch successful; 15% increase in sign-ups].
+* **Key Metrics:**
+  * **Revenue/Sales:** $[Amount] (vs $[Target] goal)
+  * **Active Users/Tickets:** [Number] 
+* **Critical Focus Today:** [Single most important objective for the day].
+* **Action Required:** [Decision needed from leadership, if any, or "None"].
+
+---
+
+### Option 3: Personal Productivity / To-Do Daily Log
+
+☕ **My Daily Focus — [Date]**
+
+* **Top 3 Must-Dos Today:**
+  1. 🔲 [Task 1]
+  2. 🔲 [Task 2]
+  3. 🔲 [Task 3]
+* **Quick Wins (Completed):**
+  * Clear inbox to zero
+  * Scheduled [Meeting Name]
+* **Daily Note / Reminder:** [Self-reminder or motivational thought for the day].
+
+---
+
+💡 **Need a specific summary generated?** Reply with a few raw notes or bullet points about your day, and I will format them into a polished daily update for you!
